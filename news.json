@@ -1,10 +1,20 @@
 {
-  "generated_at": "2026-10-06T16:59:08.816002+00:00",
+  "generated_at": "2026-10-07T17:36:08.525048+00:00",
   "article_count": 100,
-  "high_priority_count": 12,
+  "high_priority_count": 11,
   "data_center_count": 43,
-  "industrial_expansion_count": 32,
+  "industrial_expansion_count": 34,
   "articles": [
+    {
+      "title": "Global Data Center Cooling Market Analysis and Forecast, 2026-2036 | AI and High-Density Computing Propel Liquid Cooling Market to $141.19 Billion by 2036 - Supply Chain Digital",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HVkVRM3RjS0pmaEFBa05seEhTUXpEWkF1bGY5cGFYbDBrX0laNzRGYkQ2RHlNemlGd1FYbHJVOVhOSjlBczNGUGNydm50Wms3bWlaX1NicU9XTEVlNDBTRUJB?oc=5",
+      "source": "Supply Chain Digital",
+      "published_at": "2026-10-07T00:18:01+00:00",
+      "category": "Data Centers",
+      "score": 97,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"data center\" cooling"
+    },
     {
       "title": "$50 billion South Korean investment pushes stalled Alaska LNG project closer to construction - Offshore Energy",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGxLb01EX0lXS1p3Qjk1aW9BSkplOTMtejY4Y3doRDB2a1JMaEw4ZlphVTdqaUFrV3lMN3JISXZkMGtoaWdFQ2dDenVFVzFJMXJjNFVtaE1ZT0NxQjdwU0ZhUHFYWG9DU25ZRGdwSUhQZE80em5vOWEyN3ZXS3lsSEoxMGxHSTk4NVM4RVRTaEtUcDVtVjJQUUlMRHZmVnlCaHpJdWlaU2VRZGU1RFgwRmxiNnl6R3FCZDlXZldNZ2Y5ZHNZRzdCQmphTXl6dEFXMFhDZnU0MA?oc=5",
@@ -14,6 +24,16 @@
       "score": 88,
       "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
       "matched_query": "\"LNG project\""
+    },
+    {
+      "title": "STULZ outlines end-to-end liquid cooling for AI data centers - Refindustry",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmJzWV9EbE94dHpING5yYVZKT0otY3dVcTJLUVVvcHNNN1B4SnNiOUxhV2ZmWkc4VTV1dEFLTG81dXAtRHc5SlpmZFRvc1gtNUtkdlhkLWxCdmNsOXB0b3ZyWDNxMzRGR3JwX1NiMFhQVkxhZS1vSkViN3pKcEJESmJkeUc0ZmExR2FQRUFtTS1kT3dD?oc=5",
+      "source": "Refindustry",
+      "published_at": "2026-10-06T21:10:00+00:00",
+      "category": "Data Centers",
+      "score": 87,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"liquid cooling\" data center"
     },
     {
       "title": "AI data centers could get liquid cooling using energy-saving materials. Green Circle is in early talks with operators. - Stock Titan",
@@ -33,7 +53,7 @@
       "category": "Data Centers",
       "score": 87,
       "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"liquid cooling\" data center"
+      "matched_query": "\"data center\" cooling"
     },
     {
       "title": "Airsys and Shell Showcase Spray Liquid Cooling for Data Centers at OCP Global Summit - GlobeNewswire",
@@ -66,26 +86,6 @@
       "matched_query": "\"liquid cooling\" data center"
     },
     {
-      "title": "UL Solutions Launches Certification for Direct-to-Chip Liquid Cooling Equipment Used in AI Data Centers - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU1RrSEN1UGZCdFRweUFkVTJPd1BqN25VREg4VjNZMEFpbV84OEVXbldJd09VNUpGajNUbVpGOUJZSTBlWWdMNTFfN3dsaTlKV1cxVG5nZGh5RzhtNkNkZURMTkFycGxSc2ZUcmw5NUZkbFg4LVptVjdab3FLVURaSkR4aDdNT2VEbFo4SHNRam10dGhHOWcweHEzeTl5R0NEdUx5WFNvOVpsZzVEU2ZQSmJXYzdOTExsdWdLMnBLd2FVbmJ1LWJKQVU3VF9pcFpyWFJycF9WSEdTbWJPUXpUYUYzakMtWnRmYzlZZ21HWmdRUQ?oc=5",
-      "source": "Business Wire",
-      "published_at": "2026-09-29T20:10:00+00:00",
-      "category": "Data Centers",
-      "score": 87,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" cooling"
-    },
-    {
-      "title": "TICA Expands Data Center Cooling Portfolio for AI Infrastructure - Refindustry",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFA3d1lTS2Jualgxa1g1R0JOQzZkTTUyVHJ2ZHhOaUQ1emw3dVZ4T1d5Y3o0ZHk2aEdOcG94dmY4d3ZEOTdfdHNaWDg5bURjcS01dlFlaWVXdld3U1pZTFo3c3F2STg2dVZaRV8ycm5tdkN3T0ROR2hlVnQ2MUdCYXdWc3hwNGpZREdzM25hVl9tWGFrMU9mWHJR?oc=5",
-      "source": "Refindustry",
-      "published_at": "2026-09-29T21:10:00+00:00",
-      "category": "Data Centers",
-      "score": 82,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" cooling"
-    },
-    {
       "title": "Data center contractors learn to live with the backlash - Construction Dive",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3B6Z1VJOVY0RGZiNGtud2ZwMmJXdEsxbEdQTGlhaV85VlcwTkFsUm9sMDk3R1BoM01sQS05R25XUHZnSDlZX1lVWGJvUEZkOUZZTG40c1U2d3d0LTJ0WUk3bTlxQ2g3ODlXU2ZCd1huekFkWEJQal9mYmo4UnRnU1hJSVBYWkN5cWU5d2l3Y1JaVTNsRHZV?oc=5",
       "source": "Construction Dive",
@@ -116,30 +116,50 @@
       "matched_query": "\"manufacturing plant\" expansion"
     },
     {
-      "title": "Trump unveils $54 billion in South Korean investment for Alaska LNG project - Alaska Public Media",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTEdrU3NpOF9mOW9OMENYWmJpRzRzYkpvUmhhNk5lZi1KTll5ZG1pYmRiaVRCMHJwZ3VaN3FrcHpnYnJoSVdGU0JOeGkzNkhIdEwzNXlIY1dzczVCMWl2X3FsMU1vWG9FY0JXWmFwa19nWFBwSUF4NExidHcwaldxWmlsSThOYzJYMmt5UWkzX25ibDRCQXFmNkVEXy1zbWNxOWNhemxDb1V5LXUzX2RFSHd5WFJCV2NNTnJCMTR5Tzk3eEozNVEtUzRIdzF4cWZuUDRocmNmYy1DVjQ?oc=5",
-      "source": "Alaska Public Media",
-      "published_at": "2026-09-30T17:31:00+00:00",
-      "category": "Energy & Process",
-      "score": 80,
-      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"LNG project\""
+      "title": "Bayer to set up new $2.2 billion manufacturing facility in US - ETPharma.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN1VPSGN2RnZlbFd6RXRYcW92aENOQ1RveHpMY0pZX0dUWTJCRnlnRzJLYU5WTEt1SVZpMWY3ODdWQ19lRUx0WXcwdFp0MURiUTBXUl9BanJuUVpTZzNHZk1GY2M2YXN0Y3QzZzJCUFFVWG5Dckc0TDFHekFoSXctSG5GVGI3cjBsaGp0MzZyTTBrSHdKUVpVTE5KUU42U1VVSHVuR1d6RTFqSTY0YTlTbERXWmQ5WjFrXzRlTXM2U0FSc0RYaF9ZVmlxa2tQTXVG0gHWAUFVX3lxTE5vZHhOQl83a2Fva2lRQlF4OFFQMFRreEU1VTg3T3lZejVvZW95dHJNQUd0WHdpYzI4a3ZVQ3FvbWpteFAzRVdiMkRKWlVrVG5xS0h6aTVPa3M4bU9YV0ZyMXpUZ0RoaTdhS3dVenpuVzRLM0M5ZkVVRXk4ekdVZ0szVlI2OE1ZQ0hKNHVFdmlrVVBabzNpNm5lTGRwdjlrc0NnUThFVGxyTkhQSEhQSzV3Q0xscjU1QU1GRDJOUkpXRHpIUnZmRjJ2LUlyX1ZpZ09hZkZKVlE?oc=5",
+      "source": "ETPharma.com",
+      "published_at": "2026-10-04T10:52:14+00:00",
+      "category": "Industrial Expansion",
+      "score": 77,
+      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
+      "matched_query": "\"new manufacturing facility\""
     },
     {
-      "title": "West Bengal To Facilitate 175 Acres For IOC’s Haldia Refinery Expansion And Petrochemical Complex - Swarajya",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUl9hMVZxVE5UVEw5MG52dTEtZkdKTEEtRTl2R1FtN3N4RUNxV1BYUDhfcHBpS21BMWVyTHRWbmZpM05PSnMxZ3Zwb0ZJazR4ZUFlQ3poSWQ3bnZkSUpDeUJaTGNoZ1RMS0VsTWxVYlNwaktpN1NMcGJITF9XM3hJbk81RnpzTnhmZm1hb3lYNDJrbjAtREVPV2luaVFEckdIY3F2TzQ2Ymw0OW9nRkRlTThZY05nbW5GYy1IY0p3bTA3SHQzbUIzQUNPUdIB2wFBVV95cUxQOTBBU25tSkFsNzFvbzVlNUVJZWRSR1RPdTg4T3U5SmRXS0gyNkdKUlB4Sk1Mb3FLQmItYkZjNFJGa2t3N1l3eGFjU0g5T2p4RG9yM29oN0I5TkhfVWdROGdUMGxGWTVJcmFGWWk1TDJ4SU91UGVKeVV2WHR5WWhTNWVVMXpaSTZnOV9zaVBZM0x1VnNwMW0wbjlMWDBzdGgzYVV5N3kzSG1IRmdIZWxIUC1hSU5sQ1ZWb0RMUHF3SHhQZmFBWXJ2SHVjVlZUX2I3aHhiRjlYT2pNYjg?oc=5",
-      "source": "Swarajya",
-      "published_at": "2026-09-30T07:14:47+00:00",
-      "category": "Energy & Process",
-      "score": 77,
-      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"refinery expansion\""
+      "title": "Governor Hochul and Representatives Ocasio-Cortez and Ryan Highlight New York’s Nation-Leading Moratorium on Hyperscale Data Center Construction - Governor Kathy Hochul (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRUdXNm5lbnYyNGN0bGNJQWp3aHVoZkt6cF9oQ2x0V1ZLN1UzN29DamVKTS1kRmJudjQ4NlZEMFVuS2xzbmhkZHhxU1hqNXpwd0tTb09zVUJYV3VpM3BnWF9LZXNLdmZwa0diVmprSk1JWHR6YVlrQ3RCNEVvc1ZKbGcwTG54bTFXY3IxMWk5QXBULUVQVUpteW0yR0t2ZFVyajhWTFV1NzUwQkpYUm1CdzRkcUM0dkxWam1nNWNQV2wxNGll?oc=5",
+      "source": "Governor Kathy Hochul (.gov)",
+      "published_at": "2026-10-06T23:07:57+00:00",
+      "category": "Data Centers",
+      "score": 76,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"data center\" construction"
     },
     {
       "title": "Reston residents raise concerns about data center construction noise and lights - WUSA9",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOUDE5MEdTSExGMmg4SXVGWEZnSko4ODR3V3JrdnVXbUpOSnpIV0ZuZW9tXzBNQlJUQ2Z1WnFLQTNPQ0IyeGYtQzI5bVFNR2h0NTdnUEVYSC1RR1NUTndEVmR0aEdhQktsMDBmVW90NU5qVzJnUjY0M3pGSVhKTXQwd3FpV1FrckNXOFF2cU41WEFOV1RYc1hweHpxNi05YWFGYlVYTm9wdmJ2aU5pdUpFQUlMSWxxaUhKTlYzd291d2JMcncxZ2RTVlAyZkdURmdldng2WWE4RE8xQzlTMnJGRGtsalhPYmZLUWZhMThjZm12dW5nRjRubXNjT25BdmtoZU9nT2JBVFpnc3VVY25wQWJBMVNZWnVGWGpaa1ZrYU51QQ?oc=5",
       "source": "WUSA9",
       "published_at": "2026-10-05T22:58:00+00:00",
+      "category": "Data Centers",
+      "score": 76,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"data center\" construction"
+    },
+    {
+      "title": "Alaska LNG shipping savings justifies billions in investment, developer says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVFHYzRzRk12Yy1PRnBCaGppbXJNaWd2VERlUzZ2ZkIzWVRjZFJ6anV3ZUxhdzdmRXdOcFc0RlNQZ2NKajdXOWxRd2luMFU4a1p0SWExMlVCemVYQmFYclN2ZWFRZ3R3bDRqWF9mN2l5ZUlBaWVGb01NT055X1pFeTMwajhzRjRFaWJfVG15N2NkaE5iamdyd3pFZDk4MGhoOWxsZE93WEpXSWVkYkJXM19DZlZUMGtBTm1tU2RSaVFmVU0?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-04T19:52:10+00:00",
+      "category": "Energy & Process",
+      "score": 76,
+      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
+      "matched_query": "\"LNG project\""
+    },
+    {
+      "title": "3 Reno data centers under construction in October. Here's where - Reno Gazette Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2EtMXo0ZmNvdENNNFdRekU0dkd2bHZUbHhKLXU3eWtZUFdlUTJpZTZvS3Bhdlc1cUpiRTVLYUxSLXY1VHRDTFZyaXNZbjZYNXpnR3pkY013YlpBM0drYW1SbS1ROWRHajkyVWY2TnlNa2M0TENYVHpMRVRTUUE4UVcwTHNWM2dFeWdMYzJvczNzT09EZXByV3RWWEYyV3VNVXMySlBxTU9TSS1qTjd5QmF1eFlRUkVtV2pSOVItYU53UQ?oc=5",
+      "source": "Reno Gazette Journal",
+      "published_at": "2026-10-02T12:30:00+00:00",
       "category": "Data Centers",
       "score": 76,
       "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
@@ -156,20 +176,50 @@
       "matched_query": "\"data center\" construction"
     },
     {
-      "title": "OpenAI's Ohio mega data center complex to start construction next year - The Columbus Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQm5qWlBPd29YTTVxSktuMlJUN1VsNEhGbVc4LXpjclBlVEZhVWF6NDZwcEduYmNnUVBfY1VORDBYY2NXNDlVdHBVWV9fMEp6OGJRODJsRGttTVdYYy1pSlhFQ3YzanRFOGw2NGl1VlNvTkZhQUNvWXJPRzJEbGpNNlhEYXZRQUNBalpVVEl0OW9hRld1eGxTWmNQVU5XTXg1MUY5UERFN3FPYm5RTV9uZ0pVRklJZw?oc=5",
-      "source": "The Columbus Dispatch",
-      "published_at": "2026-09-29T21:20:20+00:00",
-      "category": "Data Centers",
+      "title": "Caterpillar to spend $1 billion to expand Sanford plant - Winston-Salem Journal",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTlRZYW83ZFAtbXVSTTl6RXRKcTJ0X05ORWVsTk1wS2tpQTRDV0wwVmh2a1FoVXRWWGltck50RVpIaW83OTBzTU5JVkxlYnNESUNfdVJNRW1fSExuU0EzVkEwVWx0SVA5cVUyTDBmdWN3bnVVOV9JYnpLWEdXcE1ER0t4REY3cmFmQWhQb0s1MzdXWXl1OHRTQ2EzTDZHWjVSTTgtdWwzTQ?oc=5",
+      "source": "Winston-Salem Journal",
+      "published_at": "2026-10-01T18:30:00+00:00",
+      "category": "Industrial Expansion",
       "score": 76,
+      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
+      "matched_query": "\"manufacturing plant\" expansion"
+    },
+    {
+      "title": "Valeo Presents Breakthrough Aluminum Cooling Technology for Data Centers at OCP Global Summit 2026 and reaches significant durability milestones - Valeo",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS3NHRGJ0eFlFWXVBTWxLUkxyYWxtMHNoWEFvZzVvamhXUVNIS09Wb182dXFlOU9uV1l6bHM3c1dDM0hnUk5Sem1RYW5mWFZzZFpyZXVKdEtYRnZpQzdEbzNKS3lGS0RxRjRCU251WE14eFRXMDRLRXVmcG9RNzlUWkVGaGZmeU4xTUwydkVvVEFRczZCc3ZuNUFaM1VFM251Y0kzR2tKandSR2Q0R3ZmMDBDUG10XzFPd2FOdTN5OERIX0ZMU3Ytd1I4YXR2MTluNW9jYmI3a011LURTR1BDRzJ0ZGJvV3VoUkkyUU1iTzA5WW91bkF3c3R5UlMzRTg?oc=5",
+      "source": "Valeo",
+      "published_at": "2026-10-07T08:00:02+00:00",
+      "category": "Data Centers",
+      "score": 75,
       "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" construction"
+      "matched_query": "\"liquid cooling\" data center"
+    },
+    {
+      "title": "Fast Company honors Johnson Controls for innovative data center cooling - Johnson Controls",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWjFuS2dydlFGcjRtUXZqM3MyNnZOMU9FWXRHTWJFbnl2ZGpuWGFlVHNycmx2YkxPbEtYb0ZTUUtMREllRHZNaEtwMzUtY3ZGODNQZ1lDNzRBLXpGMkZLblpnWHhHWG9vVFU1Vkx0dmlRdVVKZlJwYWgyWFdkTEhOVHFYQnVUQVJhd2FIdk55Ny15ZlBCczJFRVpGanctRkhtRGlEM3l4ZllSWXFJT2R5ZUdpUnFVdWRkb1ZuNi0yVWJCb25ySWxISWN2UzZ6WHB6MTJEYV93VQ?oc=5",
+      "source": "Johnson Controls",
+      "published_at": "2026-10-06T22:30:32+00:00",
+      "category": "Data Centers",
+      "score": 75,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"data center\" cooling"
     },
     {
       "title": "LG Electronics secures 5-gigawatt-plus AI data center cooling deal - upi",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHFaeTVWOFlxR3ZaUVFFVGxtVHI3dEpYTk9VSzlCdy1BY0t5SE9vRWhCZVRxSHpGd0JkZk1uSUpvazBmSlpucmJldHN4TkR0MTNocVlCdEs2MnkxT1o5NnlRek5SR2lZY0p5ZWNlejhGaHNwWDNJSlg3S0xQQ0tld2JObnFRUHh5YkdPQ0xLUVdSUS1Rb0d0WXFXamQ4SVpzNXBISWhxZ9IBrAFBVV95cUxONkVCVTJZb1ZaMUJJczA2SC1Vb045ZFVuQjdjRXlHVDNIMnBqTzYybkJWVTZQaTJ0RWRYQlJPMWd5eEhpa0NfS2dhazdVcEpfZUwtWlFFMjIyckFOUW5SNzNVOGV0MWVOa3NjNUN2U1YzS1V5TDhQQWJhRG5iTktWa3MtTHNEX2kyWXFuVmJzM2tjMkpSUW1UZ01iRDcyNWpvMjB2ZW1tWEFqdXJH?oc=5",
       "source": "upi",
       "published_at": "2026-10-06T13:10:22+00:00",
+      "category": "Data Centers",
+      "score": 75,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"data center\" cooling"
+    },
+    {
+      "title": "AIR AND LG SUPPLY AGREEMENT AIMS TO ADVANCE AI DATA CENTER COOLING BUSINESS IN NORTH AMERICA - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWm1xTkI5dnhMT2NSYURIcXF3ZE1xUmlNXzdNYmM5QlZwdXBJOHJDcTRiYVM3N1NrT0xFS1lLZ09IVkg5R2xEVzZMbkxvMFhiZmhUSUdZQkcwZUl5cGtPVmZTYzdMSnFrOTNUc1pRMDljRVRNQUVENm1rQm9hdndUMDF4Q2ItNE1vREhHNm41anNDUnRMZVl2am0wYWVWOHZyVGE0NGJyQ1UwbDJEOTVZWnpWdm93UTBZUHMwZmF6NFMzOWZEWDhfamtNb0s2X1hlODBteDZXTG1BY0F4U2x0QWtn?oc=5",
+      "source": "PR Newswire",
+      "published_at": "2026-10-05T13:00:00+00:00",
       "category": "Data Centers",
       "score": 75,
       "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
@@ -186,10 +236,10 @@
       "matched_query": "\"liquid cooling\" data center"
     },
     {
-      "title": "LG Electronics Establishes First U.S. Factory to Produce Chillers for AI Data Center Cooling - PHCPPros",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUFxM291UnRDUDNiS3p5VUNScmU1ZjZ2X0ljR3dQTUpIbm90SEtvenVZZThWMkJKNlplU1UxeE1FdEJlMUxLa3A4dXVTMzc0TGJWUnJ3TmJoMThnRl90OW9mZllDY3JoTWQybHQ1eDh0ZFc2M1l3cjJaSTdpdXA0SkJFRGNiYzQ4dGRnU0ZETVhibmY4UkNCY2JYcnBkT2xEWG1RTjRQbjZwT1VPVzBnN2ZZaDNfVWtMeEFTRm9kWmYwUndnSU1JRlRB?oc=5",
-      "source": "PHCPPros",
-      "published_at": "2026-10-01T20:11:00+00:00",
+      "title": "Midea Showcases Breakthrough Cooling Technologies for High-Density AI Data Centers at Data Center World Asia 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQkdRTXVpZDAtMXRhUm0wUzZyWGwybVBQbUFfM004YlBfdmR5UjNYQVBCN3pPZkZKdXlIRG55bjRUY05saERHXzFib2xTaV9JSU5QVGhQMjYtZTlDOTVULU5Xd1l1OEdwZWdwZU1WdjdJbXdDSnVtR1Q4VS1HVmNTbkY4TTZ4R09pOWpkbUcwNHJmNGdOMmVMcHFOOXAyM0xkRjhQcHlrVkhBSFVNT0FDZ3RwOA?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-02T00:00:00+00:00",
       "category": "Data Centers",
       "score": 75,
       "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
@@ -200,16 +250,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR2NEbkYtbm40cFk4MDczRXV4TTJXV0lNaGlLUGVaQWlpVTdndnI2NHJHUk84dXVoVk5IY2ZGZWU4QTAzd1pfT2l3a3lsTUNUX0VPM1JCQ1JHRW5rbnhrYWRNbXlWMFJZQWd1cy1ZMEl6MGd5T0ZxbnltLUhQcXh1YTJTdk9ockxlTW1aQnEzdjlhRTdnd1RqdUlTa2s1ME9PX3EtMVcwU2JUcGJEdm5KTGJjcHBZVURjcERxNUxOZDBaVVZzSlFuamF0dlpCdTZtang5QVljZ1A4SHU2Y3Vv?oc=5",
       "source": "PR Newswire",
       "published_at": "2026-10-01T12:00:00+00:00",
-      "category": "Data Centers",
-      "score": 75,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" cooling"
-    },
-    {
-      "title": "Nortek Data Center Cooling: The Hybrid Future of AI Cooling - Data Centre Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEgyd0N2bnI0NkxOMk04RG9UWFRKTVEtUlpBVENBTDMzNEFMcjNpaTFsRkFxNXprUzRvV1lXN2hjYkpqRG5TQ1M2Z0xISEdvaG85am9VWVNOMEtLcVBiQkxMTDZRV0tFbnA3MnVpak04dHlidlRHSlAycGpZRUtSWnNuNUhIMHJwd0dqUFBJOG1fODlFYU1FRVlDZTZaQmdkQUJaVzhfNWdHUGM?oc=5",
-      "source": "Data Centre Magazine",
-      "published_at": "2026-10-01T10:08:11+00:00",
       "category": "Data Centers",
       "score": 75,
       "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
@@ -226,100 +266,20 @@
       "matched_query": "\"liquid cooling\" data center"
     },
     {
-      "title": "The production readiness journey: Why successful manufacturing expansions start long before construction - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUZHMHFuWXZiaVhpMHNZOEpvaHlqUlFyaG50c2JtcmdYaEJYLWNCMV8wM2NrTXAxUFhLcXItVi0wcENFSmdJNDRJZ0pGVUtEa2FKOHpWcnpsd01hYnJQZnZXMWpJd1U3LXVVNk9WRFBTTk14QnBuX3N6LUx1V0RDbVdqdjVub0Flamd0OTh0SXlyOUF4VDhFYmNaZ3lFc3dxcFpOMkt3Yw?oc=5",
-      "source": "The Business Journals",
-      "published_at": "2026-10-01T05:00:00+00:00",
+      "title": "ERMCO expands Granby, Que. transformer manufacturing plant - Electrical Business Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2hycU10X2pCaC1qVFFMSUw1MDRhMnJXaHE1T3dNMkJ0Z1FHSnhtV1NSakhHUWpobDY2NDQ0aGdnTFJwUEpCdjFvZnJ1SF9BOFlIUTJLdmVmRUJrcTFkRlQzV1ZtRGpsNkhZa2p4RF9MY0FNY1pWU2FoUXAzb2w3WEUtUUJwZw?oc=5",
+      "source": "Electrical Business Magazine",
+      "published_at": "2026-10-06T18:33:09+00:00",
       "category": "Industrial Expansion",
-      "score": 75,
+      "score": 74,
       "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
       "matched_query": "\"manufacturing plant\" expansion"
     },
     {
-      "title": "LG joins NVIDIA Partner Network for AI data center cooling - Refindustry",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVDhtNm5kbDF0SWtpTEl4XzZpay11QlVVWU4tZEVmTnJCRHJxX2lPdnFYWm9CVjEyc0lrWlRHZ1NhMWJuXzI4UEpKNmRsYlBrcUprekpwNVhsNmdEOGtsZFRSOXc3YkV4bVVNOVQtcHFSVzQ1a3RZVHZFaFIzUW16Sy1xZElZR0RpVXFYTjFyNXU1UQ?oc=5",
-      "source": "Refindustry",
-      "published_at": "2026-09-30T21:10:00+00:00",
-      "category": "Data Centers",
-      "score": 75,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"liquid cooling\" data center"
-    },
-    {
-      "title": "LiquidStack unveils liquid-cooling platform targeting AI data centers - Network World",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYk12T2hESlkxTGh6MURobENWQ3FfMzRWelVYVDBSZlFrY1ByY3g3MHJ5d1djUF8tUHVPelBmd01DYm15VEZ5NjI2eHl1MWNsR0ZPWEZ6eks4ZG1WaEticUdzVThUTXB4bGozWHVFYS1oUjdLUUhJVlA0aGt1UVcydWFzNm1xbmVCS0JoRHQwd09Da2NXSmVsV05ZWnZGWEFWWUZXUlVBZDhqN2ZpMjl1Y0VJVzhXdGFidTNj?oc=5",
-      "source": "Network World",
-      "published_at": "2026-09-30T17:16:53+00:00",
-      "category": "Data Centers",
-      "score": 75,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" cooling"
-    },
-    {
-      "title": "Clivet Targets High-Density AI Data Centers With Next-Gen Cooling at AI Infra Summit 2026 - DataCenterKnowledge",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQXQxVTlaTHgyQ2RwWDJ2djlVY09TU1NrZFEzRkpMaG5veWRUaEFGd3pkZHloT3ZfSloxMkJQbEY5WDFxZjUtSGtSakJYWmZJWURDaUVXVjZRZTRQdTJBeVNpQ1FQampjTHhVX1VDY2psSmZldERMRXZrNGM5UnlpWkFhM0tGZmtCWW4xME5aZ0xkaHlPejhmcGZTVDVJOHc5WjU3d3U3Q01FaktYVEtRWmIxSUdwMVQ4c0Frakw1X1MyZ2xHZU9tclVzS1RJdw?oc=5",
-      "source": "DataCenterKnowledge",
-      "published_at": "2026-09-30T14:50:15+00:00",
-      "category": "Data Centers",
-      "score": 75,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" cooling"
-    },
-    {
-      "title": "Caterpillar Plans $1B Manufacturing Facility in Sanford, North Carolina - Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYmtvcDY4eUpkN1E5M01Idkg1ZjFyanRNRWxJNnRZcVJjZ2lsdnFBeXJUcDJLWV9jODNJOFUxYmZjZ3NDald0ckxGcGFmaV9MZG1xT05pR2dWTkNwWGMxZ3FFaXdzOEloMDdVZEtHTm1aVzk0OUl6MU5HZTVNeUwtSUdTQnMyaDhBUkRiR3QteVdqRG5OTG9xZ3lZZ3J1RFZYT0FTcV9BOXBXNjA?oc=5",
-      "source": "Construction Review",
-      "published_at": "2026-09-30T14:29:11+00:00",
-      "category": "Industrial Expansion",
-      "score": 75,
-      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
-      "matched_query": "\"new manufacturing facility\""
-    },
-    {
-      "title": "Not Chips. Not Memory. Data Center Cooling Is the Unsung AI Infrastructure Play Nobody's Watching - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOG5MOURraDd1X3BQU1M1bXZ3eDQ1OXBGckhQZjFVdFhxTFZvYnFERG80X19sQTR0dGpTQXRndXJCcHZMeER1VjlWYVBCTFVxSEVvYnAzeEJCNVNyVk9ueUlXNF9LSFdmWkZkOVZDU3RVVHRNbTJMSkJsdXdBVkFYTDNZM0xNN0ZGV25VcEJNeFJ5bVhFaG8ySw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "2026-09-30T13:24:00+00:00",
-      "category": "Data Centers",
-      "score": 75,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" cooling"
-    },
-    {
-      "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers - SK hynix",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xdENpZ0VDTWxjNC1LM2VuNlBwOWl5OGtURG55TzhZbm1pSm5Ua0ZPYk9ScVdGSE1GWmVrbTVqY3ozRllSWlFVSGcxaXpOVC1yVDZGY1N5UmdUai1wNUpWTlRMRG9wZEl3dUE?oc=5",
-      "source": "SK hynix",
-      "published_at": "2026-09-30T08:13:53+00:00",
-      "category": "Data Centers",
-      "score": 75,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" cooling"
-    },
-    {
-      "title": "MagPro launches AeroLev 1850 to advance water-smart cooling for AI data centers - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV1p0NVpBa2RHYTdrU25Lb3dZRmhNUDE4bmI0RkxTY0ZBdGxrNVZ4ZDlLM3RycDJjQUhHaXUtelVRdFNMTnd3OEE0M1FQTk5GSUlYcVpVeTFhYkZ0WTJSTEt6VjFWRXFmTUppWmtRdmFSUmY3SjZ1VDZtYkhsc2NKSGlmR1gzbTB2a2cya3duX3JTRDBIRndiVm8yNUY3OU5teHlKTldzTDBBWTFiVVlmYjF3VTFWY292akRrazRTVl9qRF9IeW1qdHgxYw?oc=5",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-09-30T01:03:57+00:00",
-      "category": "Data Centers",
-      "score": 75,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" cooling"
-    },
-    {
-      "title": "Voortman Opens $51M Manufacturing Facility in Monee, Illinois - Construction Owners",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbU03aVBfelJlVlhULWpoSUg4X1Vxd2VMZGJ0Q08zZ2Rqd1NNWTJWd3lhV3ZyUlJadDg1U0s3VVZKRlEtcWJUWU9rbFoyUWFjZ2JmV3Z4dDVOS3U5TUVnQnNtbl9kOENGYm9YdGQ5VUNubVFTc2U3ZFJLWFdaQWxDS0VSSWRGcjZxa0F3cG1GZWNfY0pVNUs1d29ERGdER2xR?oc=5",
-      "source": "Construction Owners",
-      "published_at": "2026-09-29T21:45:54+00:00",
-      "category": "Industrial Expansion",
-      "score": 75,
-      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
-      "matched_query": "\"new manufacturing facility\""
-    },
-    {
-      "title": "Bayer Expanding US Pharmaceutical Manufacturing Footprint With New Ohio Manufacturing Facility - Pharmaceutical Online",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTjNSMzVnUEdqYURxTWM1TVZnVURTQ0gzOUc1M01TY3dneDZDdXlYeGdNU0pEaWNmMVotb0x6cnhaaDRnWDhoX1lHUTJmYXU4QXNRMk9IRnNZR1Y1X2djbHRfWFFuMTlkV2ttZjJ3VGd3M2FpV2U5ZGVHeXRGSzBEVkNRdUtpYkNCSHhJVXJCcDJLUlgyUkxVa3ZReDZWWHFOdjN0RGp3b0pPb3FSdWhsSVJORFFxTjJRLUpoUVdEa3o0a1l2cjB5Qko0WXhiY3M5WVh3d0F5VDY?oc=5",
-      "source": "Pharmaceutical Online",
-      "published_at": "2026-10-05T20:08:17+00:00",
+      "title": "Clearwater steel company to build manufacturing campus in Pinellas County - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXNaWHhPN2xxWkNnWXZEUVdhZmU1VDJjY09RbkpFQXYzNndPSDV3N1lRUXdnSm13eEtHTmZKejllV2QxSmh3ZzRaX2p0eUUyX2t4UGlhYTN5QlpjMTV3OW45MWp1d1lXZTM2ZlhkMXFsdG02TlZrVmMzMUdHZVpyWHVFNHpUT04zWEJQS2JSd0ZIb0JJZHNqcjM2blRVS1BBSjZKbg?oc=5",
+      "source": "The Business Journals",
+      "published_at": "2026-10-06T16:57:00+00:00",
       "category": "Industrial Expansion",
       "score": 74,
       "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
@@ -346,6 +306,16 @@
       "matched_query": "\"manufacturing plant\" expansion"
     },
     {
+      "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’ - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MlF0TnR6blk3VzJjX3ZnT0Zwc1lFNURpRkZKY3RzRWdrY2lmYVZBRzNubTlZLURSZGtMYWpTd2FYclJZTmttNzR3Sm5VakJpalFORlI0eTh2NjUwVnNiYU9XYVpvWGp2TnJtS0t3Tms0by0wU0Y00gF8QVVfeXFMUEFKMUY4TmRzdmtuRmE2eURXS015b0V0Njk1MTFDeXo5aHR1S0EzanFsWXBUcEFxbnBEY3BvZWxtM3U1Y0VSdWNJenRDbDdzZzcxQzlNdnFOYmxyT0VVYVpRcWFxaTR4dVFMMlV0TFhYTjZ5SDFzcUpDZGY1ZQ?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-10-07T09:26:02+00:00",
+      "category": "Data Centers",
+      "score": 72,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"data center\" construction"
+    },
+    {
       "title": "'We're going to win this': Tonganoxie vows to defeat proposed Project Bluestem's hyperscale data center - KSHB 41 Kansas City",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSlJzUWFwdFpqaTRiV2NkMUVUTmY1cGhaaDYwTHl1LXhNVnhaa2JCZlFGWmY3emtYYkZqQ0RDYWt1NmVvUTVRRzNGTUpxSHczSHVfRkJ0VG5aYzBtaFdnTHNxdXhnZUVPV0V4NG5YeWR2SHpENWJaZW4tVTNpcm5fZk93MVZ2SnQwZUtGMGx5Nk40MUdFQzRUVTdqenR5Y0xEMENrNFQyb3FTX3dTeXVaZkJWTENjcm1EZ2FfM2NBdGEycnRvTXR0YTFjcURyQk1RaS1qRXhXaVZQRXdPNnRNcWNB?oc=5",
       "source": "KSHB 41 Kansas City",
@@ -356,44 +326,14 @@
       "matched_query": "\"hyperscale\" data center"
     },
     {
-      "title": "IOC Gujarat refinery to start operating at expanded capacity by end of FY2027, executive says - ET EnergyWorld",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTk1fLWFTdTdCd3ZQSUdwNGR6RUlCWUNHaFhXQ1VldlNDTUZFWmFNU0lsLUxJRHE3TjBJOW53RTFQTDVZNFZEdVVKalNYUVhxZWFaLXlDNlpCRld0bzlfN3JWc3E1b2RYXzVVR1dCTVMySVNqa3JEbHRPT1JiMUpVZVpuQndaQmUyQXFFTWt0OXNwTExuVkpVTHQxeXYtNk4xSUtqZldMYmtGN0tkY3AyRzZHVUd0eEk1ZjdqSDJ1ckxJYkVFRW43akg2bnU5WFozOFFGZjZXMW9pdlJrams5d19JcGdSVkk0cEplbjlpb2JZSldBaUHSAfsBQVVfeXFMTzJQTDNlcDRHWHpyMHVrX2hiaHd6Z2hlaTV4ZWJ4djI4SHhTQVN0SEw5QWJXdy0yNkJHS09sTno5dUFyZjRibjhhd0VrNE82eUlZMXB6UTNvNHZKV1dqbm04REdGTVdIb3dnN0JPQXNSYzYtcWhxTWpVelhTWER4RmhsYS1HcW9qeGFrTllSVXVTZUo1WkhYbGZqRlVCQ3Z5MXlXbUJ3ek5rR3JmRDZ0bkhrY3JjM2R2OXdodThIOXRaaUxRSnNLVVp6QlZfSjM0cG5DVnNKRU8xdGI3QXJodVdydW5aWS1mcFFjVEJjX1l1SU56ZWlQR2w1bXM?oc=5",
-      "source": "ET EnergyWorld",
-      "published_at": "2026-09-30T10:48:25+00:00",
-      "category": "Energy & Process",
-      "score": 72,
-      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"refinery expansion\""
-    },
-    {
-      "title": "Resolution sets rules for hyperscale data center project in Putnam County - WCHS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3dscGU1WERTTFY2V1VjQUpKYW9yRVlCbzRXVk9OTmwwZmJxUEU2R3U3WXA4UVJibnhOWktrU0o5MmhkYkFLc0lObUtBaHNKbHFIOFh3MWlkWWU1QkgyUlBrZGNobC1sNkJKLVN4S1JyWGowY3ZIN3FtbV9rMHc0RkZKUVdTU0N4cHJPV3gzeDdvRmhqMVBOZ2R4ZnB3cDFHcTVDag?oc=5",
-      "source": "WCHS",
-      "published_at": "2026-09-30T02:47:25+00:00",
-      "category": "Data Centers",
-      "score": 72,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"hyperscale\" data center"
-    },
-    {
-      "title": "Slides: Texas petrochemical expansion lacks rewards for host cities - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRW9ZT09MUUlhU2lJWjloajhtYUVwZmJ0VVRoLTk1YzZIRUdlclBMZlpqcEd5YXc1MVJ4M0thYkJWOWFuZ3Y2bmtpWmlDeUdZb3pZMmhvSlhQb3dDOHUxM3ZtdHRhNHgtNFlkSndWVFRaWTMyRTQzeGs0MUQtalNNWHg2WGVrNko4a2tBY1EyWU5MSjdB?oc=5",
-      "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "published_at": "2026-09-29T19:29:25+00:00",
-      "category": "Energy & Process",
-      "score": 72,
-      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"petrochemical\" expansion"
-    },
-    {
-      "title": "AI is driving a data-center power boom. Here are some of the biggest US projects being built. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb1hWbkZuSEhaX0E5eVZrTFYzdl9xbmk5d3p0UllKM1I1Q3pSMWJ0d0xwVmFVZTQ1cmFUVjBZTlZSZGtTazNLMExUZzBQRVRJUWQ0elpQMmp2aC12Zks2azVrc0VjNUdBTi1PMzJ3QUJ4N1FSMWhwcW02cXZHT2xXTDg1UU5pTTU1NWtCVFB2M01QTFNmZm51QzhJNA?oc=5",
-      "source": "Business Insider",
-      "published_at": "2026-09-29T17:29:00+00:00",
-      "category": "Data Centers",
-      "score": 72,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" construction"
+      "title": "Hampshire scores construction loan for 41,000 sq. ft. Meadowlands industrial project, JLL says - Real Estate NJ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVQzVlhBU0s1ZEpjT1A1eTVtSTJBUWlSLTQ2MTBhOXZPZlhaTFR1SEFXZ1hvME9iVVFtZXNUSEpodTgtSnNTTHozczlxTG1kNnF1WUt5aFIwSVNPSkRYbm5tTFZ4NVZQRzg2YXNYcVRSclFhSXVZdFFmc3c5Vmt5WnFhTjc1Z1lzZjV6S3FsenIyaTh2WW9kSXUzeTZuVlQ2QXF2bmNiM2dmMlFrU1E?oc=5",
+      "source": "Real Estate NJ",
+      "published_at": "2026-10-07T14:20:30+00:00",
+      "category": "Industrial Expansion",
+      "score": 71,
+      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
+      "matched_query": "\"industrial project\" construction"
     },
     {
       "title": "Costs increased across all industrial project sizes in 2026: Cushman & Wakefield report - Building Design + Construction",
@@ -406,44 +346,104 @@
       "matched_query": "\"industrial project\" construction"
     },
     {
-      "title": "Vitex Pharmaceuticals beefs up format offerings, exports with new facility - CEO - NutraIngredients.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYWlLaU9LckZEVUlCTl9HbURLOWRPUjlfOTNINjR4emZZak1GVXdxVnRRbV9CQmV5R1FNZVNRMXFqZjl6R05La0hFUFFQZkpwQndtS011QUYwZXU5OFVtTU1Nem1EYTVfbjRhLUprbGR4bWl6V2FZd1FIdmZTQ0ZING9aVTZGMS1JUmxoMjQwYW4wR0gzSm5rMXNoYjNGc1BrRXpwSVhKOXhZamZrSFAyeEFlcUZUOE5RbE5Cd25yX2hhYVZKUjcyamJURl95c1c0WE50YUtHWWY?oc=5",
-      "source": "NutraIngredients.com",
-      "published_at": "2026-10-05T10:10:07+00:00",
-      "category": "Industrial Expansion",
-      "score": 69,
-      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
-      "matched_query": "\"new manufacturing facility\""
-    },
-    {
-      "title": "IOCL Gujarat Refinery Targets 18 MMTPA Capacity by FY2026-27 End Under ₹18,936-Crore LuPech Project - Indianmasterminds",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTFRCRnJMemRiY19pN1g5N3JYdzVUb0FzOFBKeVQzT1FmMVd4TUEzQnpYalB4QnVQRU15YTJyWVdJSHpGcHJ5WVJ3MmtUdGV6UEh6Nm1qM3VuLVFDNjZvM1YxTXkzaEFLakZVRkppaU5qN252V2lhZm1XQnNPM1lTVzNHVWYzUHNQS05aR2NhSzZqQQ?oc=5",
-      "source": "Indianmasterminds",
-      "published_at": "2026-10-01T12:16:57+00:00",
+      "title": "Trump Unveils $54B Korean Investment in Alaska LNG Project - The Maritime Executive",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUEV4OHk0VjhYRVNwZWYyRzJSZkU2ZkU3amdiY3l2Qm9FbURxU0RBR29JWlZpbFo5OHFEZ2d6R2pKamFzZG9Ya3Q3RkwzNTJIX1hmLVZoZmhNVVM0ZVNTNmYwSUlBQXZaTU92RHJzTDU5U0swR3NXR2syRkNraWNCaGhBb3h6YlpfY1V6NlY5RmZCY0czMW5oVFl5eG9GbDEtNXJ0c2hYRDQ0TzA?oc=5",
+      "source": "The Maritime Executive",
+      "published_at": "2026-09-30T20:56:33+00:00",
       "category": "Energy & Process",
-      "score": 69,
+      "score": 70,
       "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"refinery expansion\""
+      "matched_query": "\"LNG project\""
     },
     {
-      "title": "Caterpillar plans $1 billion expansion in North Carolina - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONmVWYUZoMlhqdFpDYlFwTWY1NkI3R0x3ZFFpMENHT0hCTGdvTjNZY3I2eU4wd2x0TmVmMDBxbGltRjdGUmlkSlVzS2NvT3hweEJvUVpwOFFRbFQtRE41bVlHZDRUVUVaTjZETDZjRWtUTEJDajJDSU9qTUF4cUtjZVNfN3JvVk5hN1NQNlRfQTNPemlCNUVXVDZpU0xaQWc?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-01T08:05:43+00:00",
+      "title": "Atlanta developer enters Central Ohio with 1 million-square-foot project near Rickenbacker - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONFFsblR0NE1ZMUtfcGE4eGVoLWdCUWxjQVpsUlM0X1FoWHotTEktWklZN1ZFT3hoN25jdUYtUTNGd0xSNTF6a2RmWTU4a3A4WUxDa0FIMDNlQ2VJWEZ1dmlFUDhvVXotYVlNMjZaTExwOFRrX3dJbFd1RzBOMEZtaGQ1T1AzbFlXdDU3SFU5ZW9KenQ5WHB5Q3dSbG1mTDlmbmpFZnhB?oc=5",
+      "source": "The Business Journals",
+      "published_at": "2026-10-07T16:48:00+00:00",
       "category": "Industrial Expansion",
-      "score": 69,
+      "score": 68,
       "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
-      "matched_query": "\"manufacturing plant\" expansion"
+      "matched_query": "\"industrial project\" construction"
     },
     {
-      "title": "Dangote selects Honeywell for $16 billion Kenya refinery - Nairametrics",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlFlN3VFczJ5UTd5amVDUkpDVzI0WWY3TExEMzNvLTdIN1ZnZVFRTEpRVmwzdHN3OTdnNVdTMlRXekpRMTVEdTVyN3kyamVFdzVOOHM1bGg5WTVkRVBmQVByTWFubU82d1FXSzhyb0pLZTMyOFdnRTEyVDVBZHZqb3RhWU1DR0JtU0JZOGZCbTNhNlFWYzNJ?oc=5",
-      "source": "Nairametrics",
-      "published_at": "2026-09-30T13:35:54+00:00",
-      "category": "Energy & Process",
-      "score": 69,
-      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"refinery expansion\""
+      "title": "Are AI Data Centers in SE Florida’s Future? - Sierra Club",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFVOTFpKYUVIY0cyMU1RdlBFN1NQMk9CV0VSUG9CNUVPYk1KeWRuRGRmdzJHR3RDMy1fX1RId3BrZGsxb0dtZVN4QUk4b2JMaHJkajFhMDdmTVZwZG54eXVnZDJTcnZ5anhwcUQ1MG9UYk8xdkRqU19XYmVUNE43NDkxdEp6Z3JKT1ZqNVJYdkhZZ19FYkNEbkFzSQ?oc=5",
+      "source": "Sierra Club",
+      "published_at": "2026-10-07T07:58:05+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"hyperscale\" data center"
+    },
+    {
+      "title": "DTE hints at new data center development, stirs fight on energy sources - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTRoOFFlcWw0NVhoZ1B1QURkYk9YSzl3RmJMcTR1UG1VWF9VQzA0a1hpTnFiOFpTSEd6UjVZMml2N1NPRUwybXRIcm1CcnA5RFBxUUxBRVZmbDhfX1pMRHlzRFRPYlJNWVdHWjdVX2NzVVdDODVrWUNXWS1BdFltdGVDeU5rY2djUm5BX1UxbkZKcnJQQ28zbTBtMHhMZTcwd1BBeGJ4QnZ4UVhXZXY5OXZwMkxNQUM2T3E0d2xQSXAydjVyNWVr?oc=5",
+      "source": "The Detroit News",
+      "published_at": "2026-10-07T04:01:00+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"hyperscale\" data center"
+    },
+    {
+      "title": "Susquehanna Valley residents protest data center development - WGAL",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2VpUzlvZTRNQjRMNHE3dkxIT3ZuWU5RbnFrRjVYdjFBd0JrU1hMcWNjdDJsZFBDM2JtWFlNNEx1TGNMQmtNMktIQnlQdE5pLWsxVHczWmFvUWMya0xTT2RNbUtCV083WHp0TXNBdGVrQ2RXQzVNeTJkbV9qYy1aZzBtb25tZTlkZC1JMXN2TTFyeW9HMk9nWFZZdnhvenM?oc=5",
+      "source": "WGAL",
+      "published_at": "2026-10-06T21:38:00+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"hyperscale\" data center"
+    },
+    {
+      "title": "Is a hyperscale data center coming to Osceola County? Owner explains what's really happening. - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQck5tZmdLT2QwOTVyY2hSbmRRY0lKcDllMmVkYUFSblNEWHh2R2FNRjF5N05jUUxmZ0FhMTYxS1MzSThvM05hU2ozeXBMMGh6bUxkYXBadHFRT01kQmFaVWV0MHd4Um1wLUx4TGlOaHVfWjVzeUNEZU0wODk5M3ozX0RCTlRsdXFEY1BHc2w4QU5ScC12eWlXYWpGN0dOTUoxdTBKVHRXeHVScnM?oc=5",
+      "source": "The Business Journals",
+      "published_at": "2026-10-06T18:24:00+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"hyperscale\" data center"
+    },
+    {
+      "title": "Aurora, Colo., Mayor Says Hyperscale Data Center Must Be Stopped - GovTech",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUk9PcENhMkg5QUkzNWpRTVZwcXJmaGpKUjBCYnFuVG9seUJ1TFJya3pKdk53UEc1X0hYZGNpc1g5NU9tRS1fTmFCWEVMb3d1R2JFTHc4RFBRN3ZCLWM0MDVHNzdvbVZHNUNFM3hwVHRHODRfOU05ZGlYSnZuZHVDVW1rcFE4T3RvUVR1NlRYZ25xUExERGdRXzBidXVta3QwekVld1ZKeHpxWlRId2c?oc=5",
+      "source": "GovTech",
+      "published_at": "2026-10-06T17:37:57+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"hyperscale\" data center"
+    },
+    {
+      "title": "Outmaneuvered, outmatched and outspent: How data centers are overwhelming small-town America - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSTBQd0JNUDE4eC1SNlNmQnJ1RXNCWWM5aEdOZlFqMV90bGRwQjA4LUJJN1NYVnBwU0FMeF8zOUliOXFSWVdJZTljU0xPVGhDV3JsMVh5Z2Z6NXkxenRpT1gtMWZ2MEl2TjM2TTgyMlYzYk5hbW9BQ2tDbHpoWXh4SDRVQ0twemFjVUtsbWV5Q0c2bXdMLXdUYm45aDZhVlp1bGwzS0lycWE5YzRVVlVHUF9KMzI0cEJCUGpvVzZqd0tVM3FHTjJYN3IwcWMtWk1yZFZvaXpR?oc=5",
+      "source": "OregonLive.com",
+      "published_at": "2026-10-06T13:48:00+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"hyperscale\" data center"
+    },
+    {
+      "title": "AI Data Center Boom: Understanding How Risks Are Changing - Carrier Management",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03VW9DZkk5UHVndTN3WEZ0bkY4anZ3V25DeGdMbjYxWHlPbEkzdUVURE53N09GVWRyVWhZd3VaV2kwSkkxaGJPZzVCcGhRZ3B1aXJDdVNGcGtUNDBfQnRBRUhWNmRqbjE4bDlaeWV2dmR2UQ?oc=5",
+      "source": "Carrier Management",
+      "published_at": "2026-10-06T12:08:06+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"hyperscale\" data center"
+    },
+    {
+      "title": "LG signs North American AI data center chiller supply agreement - Refindustry",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeC0zWUg3OFl4MzRZdzNKczNSSHhWMGF0R1NXMm5Rc29FNnJNNWZtRWRjRGU3cDhGR3VoTloybWFoUGFSSTFZa3UxNW5VOTdJS1pFZ0JURWt2cDd2VVNROXYyQmZNcXNPY29mbXIyWTlhWXdwSzFIMW1QdlpBUnlPX09pWERBQTU1ZmEwVWZIcUJ6Yy1WR1RiYg?oc=5",
+      "source": "Refindustry",
+      "published_at": "2026-10-06T11:45:00+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"data center\" cooling"
     },
     {
       "title": "The shady deals behind data centers : Code Switch - NPR",
@@ -456,10 +456,30 @@
       "matched_query": "\"hyperscale\" data center"
     },
     {
+      "title": "What the Data Center Boom Looks Like From the Sky - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU19oTTNNdVlNd0VTaVZyeDhIUHk1RDhtVEE5bTdhdmpsR2ZJdXBwRlZrTUNhNFdZRDdsLTNTUDhhZVRuVmIyenVuSS1hMlNPQU95d1kzeGtJYkF5VmtXRVl3Z0lDTUxZdkNwQXpsU09Mbm1mVXVlMU9hVk4yQ3VCeFpB?oc=5",
+      "source": "The New York Times",
+      "published_at": "2026-10-06T00:18:23+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"data center\" construction"
+    },
+    {
       "title": "Goldman sees US data center growth intact despite opposition - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2ZTZDMzaGJJT2o2dGpLNE4xbzZXOFRJdzVVVm9OanBHT2tJdUhfOU1FWGdoNl9RRUpXa1pOWFo4QWJFbThDclBKTmlHVHFaQ3FFbUtHUW15bnNrRC1LTHNzcEE0djhsQmpkNUhjOENzWVdhLTZ0S3l5cUxoUHNlWHZJZlZXaEdsSmJxaEgwRFJjQ2tiRjkybE1IdFNnQzhHb09qR0ZnSFg?oc=5",
       "source": "Reuters",
       "published_at": "2026-10-05T07:23:46+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"data center\" construction"
+    },
+    {
+      "title": "New map shows every AI data center in N.J. and what's being built. Look up your town. - NJ.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSzZtb09OQkFqVUxZOVp4ajh5dkU0YjJwLTJEbjhtQWpwRVBjdWM3SjJXRGlqNUQ0ampFTXg5MndLOGpfSjYtWmVKZW9NVjVSZGJ2VzJFanUtRVVOb211TGItalpKdU5ETXViVjlJaVNONERlc0JrTHRCMEpZei1tSUJaX0M2V3BFRF93OWZiMG9haERHRmcxWUtQVXpBZjNEVzZNZGdEejZxdw?oc=5",
+      "source": "NJ.com",
+      "published_at": "2026-10-04T11:01:00+00:00",
       "category": "Data Centers",
       "score": 68,
       "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
@@ -483,57 +503,67 @@
       "category": "Data Centers",
       "score": 68,
       "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"hyperscale\" data center"
+    },
+    {
+      "title": "Investors are ignoring the biggest source of data-center water use - Trellis Group",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Xak45a1BuR3JRelktVDNmTDdLZXljNUM1Q3NWSTRJNHdxR04zY3dGT2dTTTJCUDhUcGdQM29iTGIyd3NKWUQxdjBJOTBZSWlHVG56YnJlaVBiQ0FKTDVGRWdKelphQUhuWmJTR0Vn?oc=5",
+      "source": "Trellis Group",
+      "published_at": "2026-10-02T20:04:58+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
+      "matched_query": "\"data center\" cooling"
+    },
+    {
+      "title": "One of the largest data centers being built in Pa. has an end user, and it’s a big name - PennLive.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkwzMnc0SllCclllbkN2U0E0RV92Ni1aQVdBX0tjSkE0UGp0ZXFOSDQ5ZThWV21iVi1IYW1SZldoTEtmbnVUUUVnQjFTMHg2eWNtY19FcGZRZExhSW5uUDNqOFBBbmdpSG5tN2JLV2R6MDB5eEQza2VpUnVOSzZUSlloV2g5b1hfSWNucjRJTFo0OGJsbHYyeUFMYWFqdnpaZ00tT3FNb1hIXzBidkhNZ0ZWd0JjMDYtOGFuUGZ5dDRvc1RyYnfSAdoBQVVfeXFMUG5TbzFocndDd08yY2Z0eHBZWHVrVWFsU2VxT0I5bGJmTHFuRDlwSFE1UVNpWlFWOWVETUJnaWhzOVU2VHdGazRES3J4QThaOEpadjhqa0FzM3lKSG9WYW5lLTV5a0hEUlEtZDFGaHNGTDY0Q0lGRDQybi1McG01bWRrNUJEZV9nak94OU41S0FNTS0xeDRyVzhQNWkyaVBKVFZZZ1llV3ZFMV90dkdhdVRaYWcweGtKNGZDUmdoSnlYQlJaVzh0V0VRaEFULWdHZ05rbXNONU5hSnc?oc=5",
+      "source": "PennLive.com",
+      "published_at": "2026-10-02T19:34:00+00:00",
+      "category": "Data Centers",
+      "score": 68,
+      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
       "matched_query": "\"data center\" construction"
     },
     {
-      "title": "Saint Regis Mohawk Tribe Opposes Hyperscale Data Center Development Near Akwesasne - Native News Online",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVBOS2h6V1FSMF8xbzd2bUU3RlN3RGR4b2JZU2pSTFI2Nm4ybEU4NjRfVERIbUF2VUhIWURzdFhXSFlFT01FaFFyRXEyQUdEMzZ2TFY1Z21vU2RKYXVHUXNFMHRiTlpYZk4zdVZScHJ0ZzUtSldJVjZEeU8wTFFPR3FKUl9RNzA2c2Y0WnhSYkZLSjU2Rl8yVlJUdXFTdXY3ODVSeXJILXNhRlE2b003ZGY2c19SakRUbDN1UlVacmxqUQ?oc=5",
-      "source": "Native News Online",
-      "published_at": "2026-10-03T02:02:28+00:00",
+      "title": "Toxic AI boom breathes new life into a dying forever chemical industry - Greenpeace",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDRoWjZGMmphMGVSM0wzNnhkTkNjaDV4aWQ0VTdrakRPVHVGNmFlMTQ3TE9EenQyLXRkN2xtX2dFYmhUeHY2NnNDY1RuUmJiUGc5bEY5QXk4MlJpMXpXS3Vwc3RKd1Fvb1o2SzNNa2tVOUFnRDBwLTNBRVZ2WHZITmhIRUw1UFVOZFh3ZkFQVUN0OENoOHJ5a29NaV9kbmpkWHUwOA?oc=5",
+      "source": "Greenpeace",
+      "published_at": "2026-10-02T15:25:12+00:00",
       "category": "Data Centers",
       "score": 68,
       "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"hyperscale\" data center"
+      "matched_query": "\"data center\" cooling"
     },
     {
-      "title": "Data center moratorium now - Environment America",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtYWhfOXBuSmhmaWZwZHVnSDZua3NKZ1ZJdmVrNjZRaHRtYWFBcy1uYzRvc2R2RzVqYmNuVWtvNG1qcTE0X09Cc010N3hPU0dWNlhiUExWakkzdXkzQ09XRlNuX3p4WTFZVGYyNENuUzBFbHpOMmc?oc=5",
-      "source": "Environment America",
-      "published_at": "2026-10-02T21:07:23+00:00",
+      "title": "The Hidden Variable in Every Adiabatic Water Budget: Climate - Data Center Frontier",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYjNKZG9LYmRjMlFmVzdkTXdmUkszRGhpazBFcS0wNmJDa2I4UDR5Zm5EcmNKQjVvV2NaVDN3Ry1BNHVjVU9sNWVoMjRaUllncnpuSGk1Y21Pb2RMU2RWVU52U3dvZnpvX2NxcjBXbDZTYVlrT3d1bjduRzU0cGxBVVpDUGlYcUlhMmJUbF9TZUpIOHhJa2JLandSc3dmTW82aUZfUWZPdUpzZjQtcldJV2IyZU9UZUZ1ZzZieVh3?oc=5",
+      "source": "Data Center Frontier",
+      "published_at": "2026-10-02T10:44:17+00:00",
       "category": "Data Centers",
       "score": 68,
       "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"hyperscale\" data center"
+      "matched_query": "\"data center\" cooling"
     },
     {
-      "title": "Could data centers come to Arlington? Hyperscale unlikely, small facilities more probable - Fort Worth Report",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaHdCbmxVVDNHLWx6WnJWRUt6WDZHMGc0ZjFtcUpQZ1lWSnk4aUh5bldBMnE3ZTBpb2x2UjVXU2Y3Qlo4NDdlUmpaNDVULWgwaGx6TlhCUmdzSUYtNlVLcVFfdVlfQnhyaU9LZ3B0UjZOd3lIT1B6dW1GWVF3ZlZ5d0JNbHRGb3pOUjdXVlZLUWVMRmxsd2FpQ0trdURjVzc1N0cwS1V6eWprTXBzaS1lMlg2eEt0REtoQURfSm1LNFVhNDJhUWc?oc=5",
-      "source": "Fort Worth Report",
-      "published_at": "2026-10-01T23:59:07+00:00",
+      "title": "Castrol launches Castrol CORE, an integrated thermal management offer for data centers - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWUswYXZEdXJIZlBLWUJoc1B3LVU2QXpFbjBzMGdMUzlxZ2pEY2xjeUd0WTRGMm5ZNDVVaVlVbWM4d2pOX3dHQ0tybzg5VG5YOS13Nzd4WTV0d2s3TVd2dVVTOF85Vm1WSmNybjE1cDhLcHRQRVg2djUyQURaOFF0YVlCaXk0aXBqZEpEbFpxRDVvelVhLVVXZnctaG1RRnVIQnpsQnAzUHRhWkI1RzZXQXBiZVdVQWFwVDZQTUFGMGc3TXBDclhxZWpUc3ZGNDhZUHhv?oc=5",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-10-01T07:05:21+00:00",
       "category": "Data Centers",
       "score": 68,
       "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"hyperscale\" data center"
+      "matched_query": "\"data center\" cooling"
     },
     {
-      "title": "Here's what Iowans can — and can't — do about hyperscale data centers - Iowa Public Radio",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGpiYkRyWWt1cEsySC1jOFRCRmpkdV91eGJONG1sNjI4OVc3eEMydHhZc0FLY2E0dENpdC1rbkp6TmpEU1drcDc3a0tGQUNhdER3azB2Wm82VVRYZTdqWFZqQlFnVm9TamctT0J4UUc5ZllKZkQyTUxDS281MVllTXV5RF9LeGVVc3M5MEw5Yk9lOFEyYXBtaWJRRlhESjlHZ2c?oc=5",
-      "source": "Iowa Public Radio",
-      "published_at": "2026-10-01T20:30:00+00:00",
-      "category": "Data Centers",
+      "title": "Indian Oil Vadodara Refinery expansion targeted for completion by FY27-end - DeshGujarat",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1lzS2tyRDQ4cU5BSDZDNlBmWG54QXE1TUdzam9IeG5wR0wtb3RucEZxREYtSGVSbU1yX2x3R2VJRG9DRzdiRzBlTWcwODktLUNtR1pIRU5CaGVsY3RwZWNIR3hwVXhoY09hQWZDRF9aVkZmMWx1T2FuaWZiaFp1YnI4ZEp5ejdQaWwyREtNYmdXSWtHZGc0TllXUmF4V01uNUFRUWlDcTF6RHIwVDFrZg?oc=5",
+      "source": "DeshGujarat",
+      "published_at": "2026-10-01T05:00:10+00:00",
+      "category": "Energy & Process",
       "score": 68,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"hyperscale\" data center"
-    },
-    {
-      "title": "State lawmakers hear data center concerns from across Kentucky at Frankfort 'listening session' - Kentucky Lantern",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZHk2TUN0azBwZDdGVmRFRXNjQUFSdWQxbzVIb1Ryd19wTi1kYkV5NVg3aFdPUDZzWmNzZTh5NkgwZldzZFh4T3Y2azNPbkt4bUZEWkZ3NWowMUQzZ05ULVpBM2F3VDB0cWc1bWZWUHNxVUZwTHI5TzVtTFQzM0lBQ0tJN3lTUjVUTURYaHNuTVIwOTk0OGVZelhWTkdKSjhDZEgwTUdad3U5NERiMjlHaEI2cUlyRHRocGZZTW03dDhqQnZIcEtrS05VX3VtQQ?oc=5",
-      "source": "Kentucky Lantern",
-      "published_at": "2026-10-01T18:48:17+00:00",
-      "category": "Data Centers",
-      "score": 68,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"hyperscale\" data center"
+      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
+      "matched_query": "\"refinery expansion\""
     },
     {
       "title": "$6B data center planned for Jefferson Davis, one of the poorest counties in the country - Mississippi Today",
@@ -546,94 +576,34 @@
       "matched_query": "\"data center\" construction"
     },
     {
-      "title": "Trump says data centers are great. I found 330 acres for one | Opinion - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjAxOTlacHhkT2VNamdmUC13aHV4OF84MDVCVXdTTS11WVdsc1ZYWnpCRGxOTzE2Si11RmNXNU1lRkdWME5tY3BmMGR3ZzZURHJkM3hTYWpEQW5BdVEzSmJxbnQ0SUtzdHFLdURha3JmTVFFWnBNX1RiMkVxOF93bzhMbGgzLWxHT1FPdXJSbU1Vd0d1c2FpLWpxOVFEMWxld1VoWlpFbWo?oc=5",
-      "source": "USA Today",
-      "published_at": "2026-09-30T17:00:00+00:00",
-      "category": "Data Centers",
-      "score": 68,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" construction"
-    },
-    {
-      "title": "Obama Center Advisor Is Cashing In On AI Data Centers - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUE9FbEdKRFg1NmF2ZW40RVJuZ0JlMEpRU2JHanBOamFrT1NaQ1luU1R5MG9wdG1PSGpVQldWVUY1VDZzQWEtRGxsM0Q0LXZQenR6MzhmbTlxVkFSMEFUUjZEcVlYUXgwWXg5aGs0WGNuc0VNNmowV0haOXF4THpBd0pTUHpYUzh4Y1VzZUdfSjBjODg0UndXeXRjaW5hT1plRGN0VF9XclNZS2tGdFFkbjdpc0lWNFoteHc?oc=5",
-      "source": "Forbes",
-      "published_at": "2026-09-30T10:30:00+00:00",
-      "category": "Data Centers",
-      "score": 68,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"hyperscale\" data center"
-    },
-    {
-      "title": "U.S. Data Center Tracker: Power, Facilities & Growth (2026) - ElectricChoice.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5",
-      "source": "ElectricChoice.com",
-      "published_at": "2026-09-30T03:05:32+00:00",
-      "category": "Data Centers",
-      "score": 68,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" construction"
-    },
-    {
-      "title": "Data centers are changing America's landscape, report says - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGl5TXlhTkREb0k5aGxVXzgtTDB6U003ODhDTzZkS3FwZlU1bzdBMF9jMFNMQ2s3MElJLVlrTDhBUURpZlZlZzFCUGhmU1psdXU5aG5IeEpvNFlHQ0p1ZHdEeXl3ZTJfMDNnN2RmcktmTjhFa1dXak8xa3E4ZUVVLQ?oc=5",
-      "source": "CBS News",
-      "published_at": "2026-09-29T21:51:55+00:00",
-      "category": "Data Centers",
-      "score": 68,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"hyperscale\" data center"
-    },
-    {
-      "title": "A tiny town decides moratorium can’t stop NY’s biggest data center from moving in - Syracuse.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUV6U3BMTU1hV1ItandFU1h3N3Y1bWdKNnhhUWZCMnRqWDd4aUFwb0tnOEJSd1N0Rm1iNVVBTWlGZWM0VmRwaEZXUVBxTHdrbXBPN2ZLMkctZDlDOUd5eDFSVzY4OWtKSzA4ZzYwSDktUl9KR0MtckFKTmhqbVdqSmpPb0h2RGR0M1JEVWZram5lbFRjLV9BazlCOEhidE5JSVF0c2NDXzA5Rll6eElKQUJ0anF4UjNwVTZHR3M5MA?oc=5",
-      "source": "Syracuse.com",
-      "published_at": "2026-09-29T20:22:00+00:00",
-      "category": "Data Centers",
-      "score": 68,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" construction"
-    },
-    {
-      "title": "Dangote refinery expansion seeks US$1.6bn in Africa’s biggest IPO - African Review",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVh3aEhvbUJMZk5WdFJ1WVA1WDhnYzhLYkswWnRULVJOSXZrNzlHT3BRaXNVd0hxSXkwRm5JNjFyX3ppR0pYanl3YUM1VDRJNGx5YVctZG5BeUJ5Sm11VkQ3RFlvSEQ2Um9TOXc4YWxEM3FJVm9BaXhOR2JZeFlUMzVNa3Exa1pldDJXNnBUQ3Y?oc=5",
-      "source": "African Review",
-      "published_at": "2026-09-29T18:01:30+00:00",
-      "category": "Energy & Process",
-      "score": 68,
-      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"refinery expansion\""
-    },
-    {
-      "title": "AI Data Center Boom: Can We Build It If They Come? - Bain",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWNvX2lrSDdtMnFwTDUtWUV3WjhUQ2w4d1hmalI3bHA0bUF2MmVMeDFQLVpYMUJIQjg3OXo1dFN1RUZtYll5OHkxUlpSa1FBajRBeVB3N3d5SmpwN0RmempoOV9WdnlzeV9URURzNU93RkhVV1poTmNFdVNkQ2VjNWRReDQyN24wODVNbWRqUUE4V1JmWjFzb0tPNGNDWXJsN2d1dg?oc=5",
-      "source": "Bain",
-      "published_at": "2026-09-29T17:48:01+00:00",
-      "category": "Data Centers",
-      "score": 68,
-      "sales_angle": "Investigate cooling-system OEMs, mechanical contractors and operators for hose, fittings, couplings, seals and other fluid-handling requirements.",
-      "matched_query": "\"data center\" cooling"
+      "title": "Sherwin-Williams opens largest North American manufacturing plant in Statesville - Indian Chemical News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDlLYXpkeHhFbzc4dzhzM1FLM3BNY09qZDdHbmFXbGlHZF80dXYxeTJzajBtcDlINHNTTVY1T2loUVFOZld5eEZ1cjZYcUpDbW00cE1nZ2psaGs3dnR6a05BdG9hS2FQbGc4QkJIVnZQVVBMcFluUVVJNFo0ZVdYV0J2aDlWWjJWT2ZQSk50em02MGtMQTJXeVFnY1pITXctZmdoLW5YODNmTHoyaEEtdmg3RWFKVDVTM1JNLXVJeF9BcUtwTUN3UUx30gHQAUFVX3lxTE12VjFLYnRCbkZ3VkpaZFRFem9kdjhudVRSa2UtSVhTT25kZ2lxeGx6R1lEYW0tcnR1VHF1VEQxVnFsSndtcnVrQl9DeUdtM3FEb09jZnVNTE9qUFZ1MEhOc0NIQVU5bndDejZUSV9ZeGI3akFIcDFuczFVUlpYQXVHN1k0cDlJQXhjdFpZdFVnUndNc1ZDWi1uVnFNMTBtNjNOX05mNHBxRTRjVXhTeXlCbWlXOFhEM29QSGdnVVR0TFRfZ2ZJaFJaMHE0RUJvTXU?oc=5",
+      "source": "Indian Chemical News",
+      "published_at": "2026-10-07T03:59:32+00:00",
+      "category": "Industrial Expansion",
+      "score": 67,
+      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
+      "matched_query": "\"manufacturing plant\" expansion"
     },
     {
       "title": "Navigation company to build new manufacturing hub in Huntsville - WHNT.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVU1KWUd2VEZ3MXNZaG4yZmdDT0VyRVVpRzc0SVNEbVIyTXdhOUFiQThSMEFnU2xlYlpSWVRSLTctZ0lPVjhrUEdsZjR1YnNwWXFLaDZHeGp0QU5UUmdtSzJEZ2RkNk1JUHZxZ2oxRklQRncyMnFxLXpCZUJ5MExCY214RXhkR2NnLXRYaWNoNGU1WVhRdkJlcWhFOHVnZ9IBowFBVV95cUxPNDNSNWR2Q293RExRemxUZkg3cHExd251VEdRd2UwZWpiNl9NU2dHRjBobWEtY2JNVHg2OUhfRTJZV1JhRGFvRGZMMVVhbW1pdjgzSWZiWVl5YnhBZ1dCR0laLS1tRklCcURRUkR0S1FHY25FOEZxTEVicFNSSE5FS2ZfbTY2cVVMYks1UXB6Mk8xUktfMXZIdS1LTGtMNHRvNXhV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDNSNWR2Q293RExRemxUZkg3cHExd251VEdRd2UwZWpiNl9NU2dHRjBobWEtY2JNVHg2OUhfRTJZV1JhRGFvRGZMMVVhbW1pdjgzSWZiWVl5YnhBZ1dCR0laLS1tRklCcURRUkR0S1FHY25FOEZxTEVicFNSSE5FS2ZfbTY2cVVMYks1UXB6Mk8xUktfMXZIdS1LTGtMNHRvNXhV0gGjAUFVX3lxTE80M1I1ZHZDb3dETFF6bFRmSDdwcTF3bnVUR1F3ZTBlamI2X01TZ0dGMGhtYS1jYk1UeDY5SF9FMllXUmFEYW9EZkwxVWFtbWl2ODNJZmJZWXlieEFnV0JHSVotLW1GSUJxRFFSRHRLUUdjbkU4RnFMRWJwU1JITkVLZl9tNjZxVUxiSzVRcHoyTzFSS18xdkh1LUtMa0w0dG81eFU?oc=5",
       "source": "WHNT.com",
-      "published_at": "2026-10-05T22:28:00+00:00",
+      "published_at": "2026-10-05T17:28:00+00:00",
       "category": "Industrial Expansion",
       "score": 67,
       "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
       "matched_query": "\"new manufacturing facility\""
     },
     {
-      "title": "NC lands new Caterpillar manufacturing facility in Sanford as part of $1B push - WCTI",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFY1cWZyQjlOUXFKS19IcjIyVHhBSkJqNDVFV3BFRnZlblEyM3VjbThMZ29rN2ZIRWpjeDRRd0wzQkVQdHY3bk5DeUFadlVaMjBHRjBwRWo4Y05lLUh4QUVBLTZIWVdWQ2FQdkhwbWVucnV4MEZ6UkExNGI5SnN2WklWNW5uUTA3OEZDRE1zb09EQW51Y2lET3dqeVNlbHZ5aWpFOXVuR0tXVUU?oc=5",
-      "source": "WCTI",
-      "published_at": "2026-10-02T21:12:34+00:00",
+      "title": "SHINWON Construction Wins Major Semiconductor Plant Expansion Contract - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM0FMTzVnY1N3dFlpOFN5bjRLcHlQZnNOYXk5dlJGNjRSdmlsUWljb2RXT0FPNDlHQkdPZmZzRElnOExWYnZCckxPbmFEQ0UycW0xSEFDV2tSRC1KS0ZsOVRWZnFic3FLcTdQUTBNNEpsY25oOHRwWk4zTDhGeGp0NFdjb192ZWN5cmlaWEJqWkZRWTNhZlFFQzJNLWM1US1OQVBxVWxqMUJWbm5WcXBPVktxNl9RODB5Y0htMEM4ellGZEVfcFdOQTRvekpUbWtDQkwyRXJvNG1qUURMdDNTZng1aW9jQQ?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "2026-10-03T02:00:00+00:00",
       "category": "Industrial Expansion",
       "score": 67,
       "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
-      "matched_query": "\"new manufacturing facility\""
+      "matched_query": "\"plant expansion\" manufacturing"
     },
     {
       "title": "Pandora Opens New $150M Manufacturing Facility in Vietnam - nationaljeweler.com",
@@ -646,16 +616,6 @@
       "matched_query": "\"new manufacturing facility\""
     },
     {
-      "title": "Toyota U.S. Manufacturing: A History of Local Production, a Future of Expansion - Toyota USA Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3MxcEd4N1lvVzNrY1I5SHpOMDRmODE1bUlOVDVFVHBWRi1EVWtwdW55MjUxTWpOeTRFdDljZVBJV1lTVDNRX2F2S0ZQMkJlSXBuV2xJZEVlSGtGdThxay1YeHpaTUNqZk0tbUt4TDJTbkpjTVZFMDZvcWk3S09PdmtKSG1Fb0M5WGUwanN2N2wyTUxZQXhicGF0LTFTSGZERDBWeHIxVVdkUQ?oc=5",
-      "source": "Toyota USA Newsroom",
-      "published_at": "2026-10-02T14:22:50+00:00",
-      "category": "Industrial Expansion",
-      "score": 67,
-      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
-      "matched_query": "\"manufacturing plant\" expansion"
-    },
-    {
       "title": "Caterpillar plans $1bn expansion of its North Carolina plant - Global Construction Review",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjZhNnNkeDV2bVpsM0R6Q2t5QkxuSllobER2RlU3SW5CckVVZ3RjRWtnU0xoSURMQWZVczQzZzJFSUJDZVNKOWlBcFF5UkdjcXRNUGpsRjlsT2VuV3RUM2lKVmw3S3Q0M2lQOWNteWppN3N2aE1XWnA5R2dtUnZ2NVR2UjNhTTZwcEcxT3BITG16eWZJTjgwRDQxRkdidVM2SkNZ?oc=5",
       "source": "Global Construction Review",
@@ -666,10 +626,10 @@
       "matched_query": "\"manufacturing plant\" expansion"
     },
     {
-      "title": "Lam Research opens massive new manufacturing facility in East Bay, promises 200 jobs - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN1BBTkw4OFRQWnRqRW5SQ3IyVF9PRWxheVVydGRESUoyV0c3Qk1CSGJXSHV2cHFPVUltLVpzQm04ZVB6TGRaMS1aNXpDS0pZRnhSSkk4anlaWFctaklrSHlzWWJQcHd3Rms4M0xfMHVsYW1za0JYODNWSEZaRXlpN2hOUE85Mzk2b00wcUd2dFRBSU1MLWVEY0ZiX1ZuaF9ETE83dHpMVEE?oc=5",
-      "source": "The Business Journals",
-      "published_at": "2026-10-01T21:23:00+00:00",
+      "title": "NC lands new Caterpillar manufacturing facility in Sanford as part of $1B push - WCTI",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFY1cWZyQjlOUXFKS19IcjIyVHhBSkJqNDVFV3BFRnZlblEyM3VjbThMZ29rN2ZIRWpjeDRRd0wzQkVQdHY3bk5DeUFadlVaMjBHRjBwRWo4Y05lLUh4QUVBLTZIWVdWQ2FQdkhwbWVucnV4MEZ6UkExNGI5SnN2WklWNW5uUTA3OEZDRE1zb09EQW51Y2lET3dqeVNlbHZ5aWpFOXVuR0tXVUU?oc=5",
+      "source": "WCTI",
+      "published_at": "2026-10-02T09:20:51+00:00",
       "category": "Industrial Expansion",
       "score": 67,
       "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
@@ -727,9 +687,9 @@
     },
     {
       "title": "Elian expands aquafeed ambitions with Barcelona plant expansion - Aquafeed.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmFWaFoxQXdNS3NyQzNXYUxrb3lXQlRMRndHeWVVZkJkLTI4cWhDYW5qLVE5MnNFakQ1NzVYVmV0Sm1rV1hpTG9wQlM5d2FLb3poQkpCbkZfV2VZU2FNbW5mOWV4NEJ6ZXJZWllyeWZPQnhYcEJVLVZTNmhEeGtuVlZ2cktjVU80aG1MbWRnb2pBZWJ5MzZkNkxKMENlc0I4b1VVeFVPSzRJdFRQcFducXFn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzFVd0pUUjNYbDUxQ3pneTE0bDcwclp2TnhmX3NYaFVQMGJkbGJraHBobGxWYUZtUThlMURlczhjWXNiQjJLbzV0djh2TkZxTzBJZi0xb3Z4Y1IzS1lFZ0lrQjJrMDZMLS00Q3R5LTRCb0ZtV2J5Q2VEM1dfbnc1R3VvZTJXc0JuLWZJYlFxeUNuREpUZXNjWG12Z1V4MzhHY2lNNG5TNA?oc=5",
       "source": "Aquafeed.com",
-      "published_at": "2026-10-06T06:10:09+00:00",
+      "published_at": "2026-10-06T07:00:00+00:00",
       "category": "Industrial Expansion",
       "score": 66,
       "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
@@ -749,7 +709,7 @@
       "title": "Mutares completes acquisition of Synthomer in chemicals expansion - Indian Chemical News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEZOLWRadU9qdE90ek1INGhtLUJIYXI3bm5XbmI2ZDNndWJqeGQ3eV9aYldzb3hlSUVPTkFXTTYxRDRfRGl3R29iTDVPUDRpUnk3b3BNRF9jWDZJbGNkSkk3Mm1BMG5VLW9MTVo0Mlg5WkRPUDV4SWhqME5sU1RKY3FOZUlMS0VuRk80dmQ0RWFUUzB1WmEwWHdUV0gwNU11N0tWQ0hzb0Q0SGRzSTFRNkJneG5Dd9IBvAFBVV95cUxPZUJOOVZHVDNpcHoyRkxZNzhUbkdNMTF2N2JoSXp5QlpLM0R4NHgzQThFcVBnUFgxcEFiOFRvRmZrRUQ5djdob0ptV3FBRmJ4WTNKU1pYaXFic096MWdPRm5Zai10aFJEMlZkUi1TWXUyTWV5cXJiazFFZEJYdHdYNEdCYXZfdTFtZjEySWYwdXNiZ3VWem5CSlJhZzYya2VnY2s1dWNkcVlqNHZpWEpoak5yN0tyVFk0dzhXOA?oc=5",
       "source": "Indian Chemical News",
-      "published_at": "2026-10-04T01:34:14+00:00",
+      "published_at": "2026-10-04T02:26:15+00:00",
       "category": "Energy & Process",
       "score": 66,
       "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
@@ -766,14 +726,24 @@
       "matched_query": "\"plant expansion\" manufacturing"
     },
     {
-      "title": "Collins Aerospace will expand West Des Moines plant, add jobs - The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMmVWWE9JQ2tYd3pKQVBaVlNobWRhVXR6ZTRhUG01WURYeE9ESFVTVjNHOGF3V25hRzBuOTBvTlFiOHY2QWRvYV9TZHF6ajRYTDdDdGlvMEVvM2lDbU9CTXN4dE4zeEpveVUxUWdCV2RMcW9DeE15SkdPOHZocVFzcTY2blhKUEFOMUpJcFJYZGJuRWhFMm5oS1VjbXA2VE00c18xU3Q5ZkYwcFF6bFVJaHNDOFJFQzZtcjY5SG9DWXo5a3dtRFhJeDJhNU1vUldkc2hUT2lVZw?oc=5",
-      "source": "The Des Moines Register",
-      "published_at": "2026-09-29T18:02:04+00:00",
-      "category": "Industrial Expansion",
-      "score": 66,
-      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
-      "matched_query": "\"plant expansion\" manufacturing"
+      "title": "Dangote Refinery Sets Bold Target to Beat Saudi Aramco’s 4.5 million Retail Investor Record - Legit News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcExXQzdBRHBPTjR0bllONFgybWZxVXB6ZHh5ajdDRmM5elAxRXJSYk1vREpKMC1sdzRVLWxXZDlZQ2ZvaU0wdTlDZFd5THRtcWFBWXN6OUQwZkIzVFlYTU1kbDhDSjB1RTFza0EyOGVhUjNnU0hFVkNKbjk0bWlodjJ6SWlIQ1pncl9ZeHROQ2tBZXV0U1FlekFwYkVNQ3lEOEl1bWZQcTA3dm0yQ2NFYXZXZDA2V0tWR19raXRFNmpnTi0zRlJaaGxqd2xDeXJUc1FzMl9FNWJ2ZVVady1tbEF3?oc=5",
+      "source": "Legit News",
+      "published_at": "2026-10-07T15:00:00+00:00",
+      "category": "Energy & Process",
+      "score": 64,
+      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
+      "matched_query": "\"refinery expansion\""
+    },
+    {
+      "title": "Dangote refinery sets ambitious 10 million-investor target to overtake Saudi Aramco’s retail investor record - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVHRNUDZPSzBzWkNPdTZ2VXJXd3U3dFMtSW9FRXNrYkZjYmd2M2l2TjVseWw0NjRoZENUOV9OZ2lDTncwLVdMRWlsU1Jra09fYk1la1o4eVRfQjR0SEdFZW55M1E5OFRRVTZfOW1oZUdfMzB4SlBEVTB6Q1V5d3dzbmFEM0JjSzQ1X2tDOWJ3RE9HTmpIV1JUb2laU3J2OUktbDczeDhtLThKS2l3a3EtUG1IODVEdGxDb0FuUFhvMEx5Z19CU0ZRRkN3Z3Z3ckR1YWxqZnJJMTY?oc=5",
+      "source": "Business Insider Africa",
+      "published_at": "2026-10-07T05:36:53+00:00",
+      "category": "Energy & Process",
+      "score": 64,
+      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
+      "matched_query": "\"refinery expansion\""
     },
     {
       "title": "Rae announces $3.9 million for Palmerston plant expansion - CK News Today",
@@ -784,6 +754,16 @@
       "score": 64,
       "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
       "matched_query": "\"plant expansion\" manufacturing"
+    },
+    {
+      "title": "Consumer group seeks details of Kenya’s $500 million Dangote refinery stake - Nairametrics",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT05KNHo4U2Ezb0FvbkRnZzFTa1hQTWJYYXlmaktmTVprMGI0Rk1zd1pnU2s4NUJ4YTVmN04xSFZSYk44VkNLWlhZMEtMSFBsb1o0SkdfaUhTd0JqTDNuLWhBODdnRHByODFRblN4LXI3MUpxOFBXT01URDQ2bVBjUDh6NnhJYnJ2andmR01nNWlRaHVyc1ZzS3J0eUJFV2JDdnZLN25JbmFHVmNDQWxv?oc=5",
+      "source": "Nairametrics",
+      "published_at": "2026-10-03T11:50:06+00:00",
+      "category": "Energy & Process",
+      "score": 64,
+      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
+      "matched_query": "\"refinery expansion\""
     },
     {
       "title": "The Global Olefins and Aromatic Market is Projected to Exceed $380.57 Billion by 2030 - EIN Presswire",
@@ -816,30 +796,10 @@
       "matched_query": "\"LNG project\""
     },
     {
-      "title": "37.5-percent Growth in $100M New Industrial Planned Projects MoM for September 2026 - Daily News-Record",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQMUJ2ZDdla1FaTjA1WUd2aVF1MkhaeUFGc3ZEMy1IeUhwLTZYTEJoby0tV29qd0Fmb3JjVlJSdGJtVGYydkFlSnpJVy12Q1c3NG1STnRlS3lIVm9XeHdES3FVdUJtZlZQZmNPOWJRVEo5anBTa1JNeS05MkUzVXFuNEJKVE9lWE1MazBoX2p6ZTBGUEtPay1LMENidTlqNlEtZ016d2c3M2V4VjVOR1F6Y21sY0dHRzQyT196S3FjbmFEV0JsNGRBMWk3ckdacEkyOU0zOWE5RTRhQXdRemxBVlpwUlpDZTNqNk1rVWRZNWZldHRjbzBubXIzTDBHR2VZbTZXUnJoR3Y1R2IwRDVRdFJn?oc=5",
-      "source": "Daily News-Record",
-      "published_at": "2026-10-06T12:08:31+00:00",
-      "category": "Industrial Expansion",
-      "score": 63,
-      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
-      "matched_query": "\"industrial project\" construction"
-    },
-    {
       "title": "37.5-percent Growth in $100M New Industrial Planned Projects MoM for September 2026 - Send2Press",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3FsdWN0T2tVblhieVFuWnpFd2JPYjlzbE56Z3c4M3J0WlA4ZFBrN3IzQWZVeG5ESTZST1BvMjNveVBRTzJQZFNTRjlUdC14LUU2dG5aTmJ3OXV2bmdfalh5SHZyT251VHhqTEVFNEFvLUVkRmN2MVdkRkIzNnBJcXBwNEpFbTM3MnVSRXg4NWswRFdfT2RsX0xGRlBzU2hxVVMwMWNoZmFxd3ZtcmFjUjBpclJYQQ?oc=5",
       "source": "Send2Press",
-      "published_at": "2026-10-06T12:01:44+00:00",
-      "category": "Industrial Expansion",
-      "score": 63,
-      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
-      "matched_query": "\"industrial project\" construction"
-    },
-    {
-      "title": "Best Energy/Industrial: The Watson Substation Project - Engineering News-Record",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSWg1bDktbGR6eXIyQkJSUFE4UEFVeFJUZ2FCMndMY0N5RENzTmIyeTdzUUNyV05OWi1JZHRtaGlBUTZab2JoQVRJc3lJSjcxcnc5VUwycmpkOXhyanBBS3MtRGZoVzh1bkxyOWMxVU9oV1BxSzlMSVk1ck9aeVowWV9zalRVaGJlSUNNdGZabkg?oc=5",
-      "source": "Engineering News-Record",
-      "published_at": "2026-10-06T09:00:00+00:00",
+      "published_at": "2026-10-06T12:02:18+00:00",
       "category": "Industrial Expansion",
       "score": 63,
       "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
@@ -854,6 +814,26 @@
       "score": 63,
       "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
       "matched_query": "\"plant expansion\" manufacturing"
+    },
+    {
+      "title": "YPF Targets Late-November FID for 12 Mt/y Argentina LNG Project - Natural Gas Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWnA4UEkzVDdleWRjeUVaeFZkbHNpTWhRN0oxcDBldTUzN3ZJUkxFa3U0Vm5XLTBtVEszZ2ZtWGJRSHhvdVAtWUR0Z0tnT3lDMkdROWxtVG5XX1huTE5MQjN2LV8xNkdIRDFlQW5oU09mZWhKVlJwd0Mtd2RwUjFSZ2QzdV80RE1lRUx2QzIwV2RGNTNZdlQ4ZEZwRE8?oc=5",
+      "source": "Natural Gas Intelligence",
+      "published_at": "2026-10-05T16:31:46+00:00",
+      "category": "Energy & Process",
+      "score": 62,
+      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
+      "matched_query": "\"LNG project\""
+    },
+    {
+      "title": "Trump Threatens South Korea Over Alaska LNG Project Dispute - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOUpyRXpVOHRtM0ZES3YxaDlWU1VJWEVrT29ISFM5Z2h4S3pqd2dCcVJVT29vUmV6VmdjbjRsN016aWtELTBDaWsxdFRDTFBhU0M4ZVJlOEIyWGk1Qk50NHhtOVprOHQybXp2a202Q0F3WjJtR0VUNWhXcHlTRExhTWxwYzFPQmhQSkxJeFU0YzNJV1VRRkkxMGMwYlR4U2VXUmwzWjBydHBCbWpic0lj?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-02T20:29:42+00:00",
+      "category": "Energy & Process",
+      "score": 62,
+      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
+      "matched_query": "\"LNG project\""
     },
     {
       "title": "How Brunei Balances Chinese Investment and U.S. Security Ties - The China-Global South Project",
@@ -876,24 +856,44 @@
       "matched_query": "\"LNG project\""
     },
     {
-      "title": "Explainer: What is Alaska LNG and why does the project face doubts? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVFNdVQwUWk4OHBrcVJ6ZDFtZ2JSWW5zbktNX2tUSHRlblR2WDQwUERLZnNNN19fVUp5TXpaMWpHdWpsRm5wVWRHUldocXN4b29Qb3dtMFZwbl93cFdxQ21EbTlJLWtsaE1GVTVNYnFfZmtuNE41ekFOQkhyNFFvMEtUY1F2NElLNXEyaHBNVGt4aW1hWTRJTWw1WnlpU2Mw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-30T17:05:47+00:00",
+      "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZksxbm5idXN3RHBhZUpOQ1otWXpwTHI0eUlNV0ZybVpWaHdMVWtFX1pwa1FTSEJELUV5SWxSaUhndE5pdU5JZmhBRXBFb0tXUzhnV1BVMFVyYUg4eS1XLVA2WUZScUhqWUJBbmtzQlRvU0VwU0VrYU1OLWotajltbmFSN0x4ZkRuR2ZDNEhoX0RTWXhs0gGaAUFVX3lxTE9DU0lvTE4tcGVLRGVNbzVIdDhhNjRYV29ickhZRFFNaGw4QzR3X2JQR1NVdmlkcnhYa3ZVcDRRQmtuQjQ4S21IQlVWaDBLQUlZMml1alpyYmNsNC1ORXhaUTRtZlM3R1pOTWxicl85MG9EUlZLWlBXRWFrSGwxaGNWQ2hfb1JEU2U5SVgwRnRNSTZfQWJPblhrRUE?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-10-01T02:29:00+00:00",
       "category": "Energy & Process",
       "score": 62,
       "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
       "matched_query": "\"LNG project\""
     },
     {
-      "title": "Energy, Oil & Gas and Petrochemical Events for Q4 - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRGtJamxRR2hrSXlKQWw0OWlLN3dYNVJpalZJSUJqQ05wdmZORU04R0FDUnBnaU9waTllNDFOS29yMUZDNmJuX00xeUZHT2xuckNBLXJBbVNtbTV2ZkhuTXNBbU9Gakl1d091Ulc0U0t4SXJxWm83Wm9Ic0h2VnNSN0dXamJFN21mX3c?oc=5",
-      "source": "BNamericas",
-      "published_at": "2026-10-05T21:13:58+00:00",
+      "title": "Ion Exchange Resins Market worth $2.97 billion by 2031 - MarketsandMarkets",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YaHVoaHlySmwxYmdCMXAzc2JpcFZZS3VtRFh5eUJ3amVLMGtFOHJncktRQ0dsS29nT3NEcFlXM2UxTW1zYWJmd0hvVTdaVFFVUDBFNGpXRjQ0OUlmWDRqSUZIbWFpM0ZkZWpETjktMm1aVlZLTTdldFhMbw?oc=5",
+      "source": "MarketsandMarkets",
+      "published_at": "2026-10-06T15:38:11+00:00",
+      "category": "Energy & Process",
+      "score": 60,
+      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
+      "matched_query": "\"petrochemical\" expansion"
+    },
+    {
+      "title": "Global label manufacturer Maxim opening RFID facility in Auburn - City of Auburn News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xaVJlSnBzUld5X1J4LTNIN2JWWXVtLUFnQjlLZUY5ZTZwTy1YMm5UQ2t0SUd2cnpjRVFIMmp6M3R6VkpQYUNnOUprRWI3dkNUcEVaT3doS1hnV2M?oc=5",
+      "source": "City of Auburn News",
+      "published_at": "2026-10-07T15:34:34+00:00",
+      "category": "Industrial Expansion",
+      "score": 59,
+      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
+      "matched_query": "\"new manufacturing facility\""
+    },
+    {
+      "title": "'We're here to stay': Production and recruitment ramps up at chemical plant just months after buyout - Hartlepool Mail",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcV9WandLbEtoUTNRakd4bjE1TEtYVFRNenhhcDEtN0NfLUJsNFlZWTlGRHhIalVNbmw4VEQySnJrd3pnSXN2c2VXdzFnXzlNTDJWUGdBRkRvZER2VWpvcTAxeFREanJTQ3NLQmh5MDJWYlVuZHVqVDFWT2VGT0xzV1JKNnZmcXBxNUpBLWdhVUY0SWVUSU00Y1BaVkVZdk40YjlFLVZBcUo3R09iOWxRSVhoaVRxRkl1eXI4LWI2c1Fhc29qeVdKZ2Y3M3VpbGxoSUpGT2plcHctTlQyTXJWN3BFLURhVzVNWjVjbE5CeWVjZ1l3UE5NaDhycVh2NHBG?oc=5",
+      "source": "Hartlepool Mail",
+      "published_at": "2026-10-07T13:29:00+00:00",
       "category": "Energy & Process",
       "score": 59,
       "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"petrochemical\" expansion"
+      "matched_query": "\"chemical plant\" expansion"
     },
     {
       "title": "Wire, Cable Maker to Spend $256M on Mississippi Plant Expansion - Connect CRE",
@@ -916,14 +916,14 @@
       "matched_query": "\"chemical plant\" expansion"
     },
     {
-      "title": "Rosatom ready to decontaminate site of former Nairit chemical plant in Yerevan - Armenpress",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84c29CeDQ2ckdET1ZTV0dJRGF0YndYNUhNS1pjWkN3LVRQRXNGSTNrY0NwV1JiMHZtTnNMckdfcjVoaDBpc1ZNV0tDMnpuRlFwMmfSAVdBVV95cUxNSTZJZGsxWnZqbTZfWFFIRDkwc3BJbmtIUmp2cFRocGZDSzJDWm81SHJBM3JmVUE2emVFMm12SFdZdnBfelVkR1hMaWNQUXNlNFZVT2hyYTA?oc=5",
-      "source": "Armenpress",
-      "published_at": "2026-10-05T14:27:00+00:00",
-      "category": "Energy & Process",
+      "title": "UMC Stock Slides After $1.8B Convertible Bond Pricing — Proceeds To Fund Equipment, Plant Expansion - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMUJ5THlQQXkxQVV4Y25NVTl3STBfal8xWHZneG9pN0VOSXdLOGRLazN2cDNZd3BrQVBNakZhVTkyZ0dreGZFX1I4NzRFX0U1Tnk1TkFGWmttajVJTzBLRF9kdEtDOEh2OXVPOU1LVlRjZXBSZnFvbGMydlp5NDdVQzN3aS1BY3lBeXQ4TGVOWjdRbnJYNFdFeWdTRWZJMHNKaWF3M0JCb20xY1F3X3gzSVhKelNyb2s5UG9iY0lMekVILTN0dVdUc053OGE5UEE5MEhxTjU4Nk96X2FheEI0cDdDSTMxSHBYMEROeg?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-10-05T15:23:14+00:00",
+      "category": "Industrial Expansion",
       "score": 59,
-      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"chemical plant\" expansion"
+      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
+      "matched_query": "\"plant expansion\" manufacturing"
     },
     {
       "title": "Factors Driving the Internal Gear Pump Market: Growing Demand in the Oil and Gas Industry Fuels Market Expansion - openPR.com",
@@ -946,14 +946,24 @@
       "matched_query": "\"plant expansion\" manufacturing"
     },
     {
-      "title": "The new tax break manufacturers should have on their radar - Crain's Cleveland Business",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWU1yRXFNUkNfY1hVTkQ5a2tzbmpmX054YWFNNnUzX0s5dnVWSXdRWWdweHNTMGtObEtsM3ZaUlVobGZhQWg3T0tnWElEekdPN1lFYnNUWlY3VXlOenB2Z0FWUElmY0s1b2ZBSC03cUFtbVdUOEYzMUJnYVBOMlJlTUJmeDJQOVNkS01FWWd1emgtMFloYWxfWTNTMVQtQlIzM2JyNlF6Z2hBdUlzY1h2VXFB?oc=5",
-      "source": "Crain's Cleveland Business",
-      "published_at": "2026-10-05T09:00:00+00:00",
+      "title": "Dangote Petroleum Refinery IPO Opens for Subscription - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFdjcnFfeGFtMHVuNlJRQUprMWpKQTJqYUl4OGR0eml4R2RuLXk0SXVTRzB0M2tGQlZONVBvSDlaWGoyQ3F1cldlN3BGYUFtcjFlNmY3RG1YdVBvOHdkdk5vNktpQm02S2JZcFZYQ25TdG01N1VpVTY3MUlRdlEwYVBCOTlLQnQ4aDVUc0F1clBMWms2YWl3S1JmczM0UmZzYXBISXpWNHd0ems?oc=5",
+      "source": "The Guardian Nigeria News",
+      "published_at": "2026-10-04T04:59:00+00:00",
+      "category": "Energy & Process",
+      "score": 59,
+      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
+      "matched_query": "\"refinery expansion\""
+    },
+    {
+      "title": "Daimler Truck to Build New US Assembly Plant - Assembly Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVWx4Y1gxRVRhQ0I1VmpSVGVtQlJIazU2VWdwTEtjcktSNm5LaWZCUGJQN1k5V0xSV3FiWmw5MElOU1IxSWt5ZkkyWG9LbXQ5SGtPSlhEUHNLbmRwOHFLYmFFcVFya3pwTmIwM1VrV2VESG1ucVc5N09OcEpxamRFM2U4Um5vUEhlT0YzRExxY0JpQQ?oc=5",
+      "source": "Assembly Magazine",
+      "published_at": "2026-10-03T12:06:00+00:00",
       "category": "Industrial Expansion",
       "score": 59,
       "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
-      "matched_query": "\"plant expansion\" manufacturing"
+      "matched_query": "\"new manufacturing facility\""
     },
     {
       "title": "India: Indian Oil to start polypropylene production at Koyali refinery by FY27-end - BigMint",
@@ -966,44 +976,34 @@
       "matched_query": "\"refinery expansion\""
     },
     {
-      "title": "Kazakhstan Plans Fourth Major Oil Refinery by 2033 - The Times Of Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JS2NNd2hWUV9OOWp6dHlCZ3JJZDU1X2lrVUNWQkktcWtNeVd5QzU0U2x0VE9GUGgwbzJPZk5JQVpkaFp4bDlwSGllTTU2V1VQR0lZQzFHY2UzWThIMU1XZDBlVQ?oc=5",
-      "source": "The Times Of Central Asia",
-      "published_at": "2026-10-02T12:45:47+00:00",
-      "category": "Energy & Process",
+      "title": "Trump Cuts ANOTHER Plant Expansion Deal In Alabama. THIS TIME With Mercedes-Benz. The Only Thing Biden-Harris Manufactured Were Excuses. - AutoSpies.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqb1NWM2JTV0o3dGZYaEprb3FVbUE3T00tN2JUbFEybnZXYXBuV09JTFZmcElfZGFETTFtNXRyNmNPdUJERW5oT1lXbl95ampzaDN5S3FoMjRYWWJycTNoTDYxV09RYWlOdmtyUHBn?oc=5",
+      "source": "AutoSpies.com",
+      "published_at": "2026-10-03T01:32:24+00:00",
+      "category": "Industrial Expansion",
       "score": 59,
-      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"petrochemical\" expansion"
+      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
+      "matched_query": "\"plant expansion\" manufacturing"
     },
     {
-      "title": "Kochi Refinery Marks 60 Years with Closing Ceremony of Diamond Jubilee Celebrations - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUk1UXJwWEdEMFpzSWhGN2F3bHMwZ184aU0yQ1RBWl8tRWNIeGJvVDJkazZzQThNc3p1Qm1nQ3QtZzNRWGN6S3Eta0ZTdGZUeUROQWdNT0tROTYxSS1EQ3pibzNaRGd3ZEV4bFRySkdwdVI0a3dCOVMwQTZ1Y3pmeXdIQWpwUGY3LVRlaDhoNk1aNGdaZDBxelMxMVdSUndINlhxOUtoZUotbVpOamp6cy1YRk0zUFYxWGc?oc=5",
-      "source": "PSU Connect",
-      "published_at": "2026-10-02T11:51:00+00:00",
-      "category": "Energy & Process",
+      "title": "Mexico Builds the Infrastructure Behind Its AI Expansion - Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHM5V1c2VXVsbmFiTldUYm90MEhlS2pGaTdKNUpLcUgtSDBLaG43V0JWSW1wd1VFMlhMSnVQRkJ5Z0RyWTNKcVdyOHFvVmRuWmhsOTFFYldFX1NUUElzOU5hSkE1WUFjOG1naGNIWnRKbUtfR1J0azRidGhHeC1jSDFMWXV6Y3Z4ei0xSk1tMEh3a3pUWjEwalNPVVZ4Mjg?oc=5",
+      "source": "Mexico Business News",
+      "published_at": "2026-10-02T22:35:32+00:00",
+      "category": "Industrial Expansion",
       "score": 59,
-      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"refinery expansion\""
+      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
+      "matched_query": "\"manufacturing plant\" expansion"
     },
     {
-      "title": "Hundreds of Jobs at Risk as Syngenta Proposes Closure of Grangemouth Chemical Plant - https://streamlinefeed.co.ke/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONFp3Y21oc295LTZoZlY3UUtwM3pWcmVmRlRkNTVYeUxfX29WQm4yVXY4OW51QTBuMi02Y3FTSmdZazZwdFJiRm0wWUhnVEREWU9qYmE2V09GYkp6NGFHRlVSWkNWeUdwRUNMZE5idHlYQkFlTWU0aC1fZ2JrbEJuMm9ieVVFaEt6TDEtWnRuU25YS3dpZGFhRzhLZlJ1M242SFhWVzlDLWpLZkI4RlB5WFAtM21BUFRw?oc=5",
-      "source": "https://streamlinefeed.co.ke/",
-      "published_at": "2026-10-02T06:53:35+00:00",
-      "category": "Energy & Process",
+      "title": "Bayer to build $2.2B pharmaceutical plant in New Albany, creating 600 jobs - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3pOZDAwMjR0Q3pyZWl4SDJkWGhFdUpwN0ZPOGRnR05yZnNNVnBfTXpxSnRkV0E2YU1hZWJTM25YTEZ5YXhXbEp2ckZUb2Q0MXpBQlhLMnBQc3Nabjd3WXZmckUxV1Y4eU5xMUJnT283M0NrWVBkcUNtR3ZEM0FtUmRNYmFyUjhTLS1IWFkxTmx1c05jc1hMRDRDQQ?oc=5",
+      "source": "The Business Journals",
+      "published_at": "2026-10-02T19:10:00+00:00",
+      "category": "Industrial Expansion",
       "score": 59,
-      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"chemical plant\" expansion"
-    },
-    {
-      "title": "Vietnam's Nghi Son refinery secures crude supplies through November, mostly from Kuwait - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRW5QbGxRTlVMMFN1SUl6SmlXX3hNV2NrZ1NlaWJxbmdwS3Z5LXhwVk0tQ0ctcnExVFlISlBiZ2ZFRzREbHRXMTFSUGlnd2l1N0IzcldCdDR4SFA4dWJ1Y1Ruc3FHTlEwQXAySGlqU0RycTlkWm9yMkZjRzJVQ0UtbVpPUXlDSEtaTEw3bkNkNUFnanpfVUlTbzhzYmxGSXktcWIwTXFBRExnZzNTbWdjc2VDR1BMelBkNnJEdXlyY0ZmdjE4dlJKVmhR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-02T01:37:00+00:00",
-      "category": "Energy & Process",
-      "score": 59,
-      "sales_angle": "Review process-fluid, transfer, stainless fitting, sealing and maintenance requirements tied to the project or facility expansion.",
-      "matched_query": "\"petrochemical\" expansion"
+      "sales_angle": "Identify the plant owner, EPC/contractor and maintenance team, then evaluate new OEM, MRO, hose, fitting and fluid-transfer demand.",
+      "matched_query": "\"manufacturing plant\" expansion"
     }
   ]
 }
